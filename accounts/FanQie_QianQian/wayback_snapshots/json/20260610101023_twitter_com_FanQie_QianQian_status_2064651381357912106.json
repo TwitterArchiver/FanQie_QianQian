@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2064283968695058929",
+    "created_at": "2026-06-10T10:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064651381357912106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1805047599256494080",
+          "start": 0,
+          "username": "rn6zw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064651381357912106",
+    "in_reply_to_user_id": "1805047599256494080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064283968695058929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rn6zw0 我操咋這樣。摸摸你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2064283968695058929",
+        "created_at": "2026-06-10T10:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064651381357912106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1805047599256494080",
+              "start": 0,
+              "username": "rn6zw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064651381357912106",
+        "in_reply_to_user_id": "1805047599256494080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064283968695058929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rn6zw0 我操咋這樣。摸摸你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805047599256494080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2064283968695058929",
+        "created_at": "2026-06-09T09:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064283968695058929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064283968695058929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又跌咗支vape 又唔見幾百蚊。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 47,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T01:17:49.000Z",
+        "description": "Les｜09｜HK｜ Self-harm｜OD｜成份複雜",
+        "id": "1805047599256494080",
+        "location": "🚪50",
+        "name": "小睡",
+        "pinned_tweet_id": "2040488973508940220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007966344122351616/74Sgbo2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 301,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 868
+        },
+        "username": "rn6zw0",
+        "verified": false
+      }
+    ]
+  }
+}

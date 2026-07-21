@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2048404398016237785",
+    "created_at": "2026-04-27T08:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048677138178670942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987371429026013184",
+          "start": 0,
+          "username": "Quizas147338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048677138178670942",
+    "in_reply_to_user_id": "1987371429026013184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048434363340411100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quizas147338 痛。！！！！恢復期笑的時候會扯到啊啊啊啊嗚嗚嗚嗚qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2048404398016237785",
+        "created_at": "2026-04-27T08:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048677138178670942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987371429026013184",
+              "start": 0,
+              "username": "Quizas147338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048677138178670942",
+        "in_reply_to_user_id": "1987371429026013184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048434363340411100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quizas147338 痛。！！！！恢復期笑的時候會扯到啊啊啊啊嗚嗚嗚嗚qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987371429026013184",
+        "conversation_id": "2048404398016237785",
+        "created_at": "2026-04-26T16:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048434363340411100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048434363340411100",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048404398016237785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 礼貌问一下酒窝钉的疼度…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2048007891450483082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 14,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T04:07:46.000Z",
+        "description": "我是神经病",
+        "id": "1987371429026013184",
+        "location": "圣心医院",
+        "name": "iy^7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047645573172658176/qVfoVc5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 34,
+          "like_count": 359,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 100
+        },
+        "username": "Quizas147338",
+        "verified": false
+      }
+    ]
+  }
+}

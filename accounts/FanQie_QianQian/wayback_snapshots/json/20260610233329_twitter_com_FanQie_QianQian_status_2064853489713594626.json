@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064667622311096320"
+      ],
+      "media_source_tweet_id": [
+        "2064667658721862101"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2064853489713594626",
+    "created_at": "2026-06-10T23:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T00:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064853489713594626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "904709691405615104",
+          "start": 3,
+          "username": "beautyquotes0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3aNFHue1iE",
+          "end": 114,
+          "expanded_url": "https://x.com/beautyquotes0/status/2064667658721862101/video/1",
+          "media_key": "7_2064667622311096320",
+          "start": 91,
+          "url": "https://t.co/3aNFHue1iE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064853489713594626",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064667658721862101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beautyquotes0: \"Cat.exe has stopped working… please turn upside down and try again. 😹\" https://t.co/3aNFHue1iE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10681,
+        "height": 1280,
+        "media_key": "7_2064667622311096320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064667622311096320/pu/img/9ywkdc7o_M9lcFQY.jpg",
+        "public_metrics": {
+          "view_count": 372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064667622311096320/pu/vid/avc1/320x568/_8oZlSZB8vENIXf3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064667622311096320/pu/vid/avc1/480x852/xODNW5Q9tQlnP2k5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064667622311096320/pu/vid/avc1/720x1280/i6KhcvGqbk07d_Yo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064667622311096320/pu/pl/abgTuKbQVSXeeocM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064667622311096320"
+          ],
+          "media_source_tweet_id": [
+            "2064667658721862101"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2064853489713594626",
+        "created_at": "2026-06-10T23:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064853489713594626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "904709691405615104",
+              "start": 3,
+              "username": "beautyquotes0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aNFHue1iE",
+              "end": 114,
+              "expanded_url": "https://x.com/beautyquotes0/status/2064667658721862101/video/1",
+              "media_key": "7_2064667622311096320",
+              "start": 91,
+              "url": "https://t.co/3aNFHue1iE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064853489713594626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064667658721862101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beautyquotes0: \"Cat.exe has stopped working… please turn upside down and try again. 😹\" https://t.co/3aNFHue1iE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064667622311096320"
+          ]
+        },
+        "author_id": "904709691405615104",
+        "conversation_id": "2064667658721862101",
+        "created_at": "2026-06-10T11:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064667658721862101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aNFHue1iE",
+              "end": 95,
+              "expanded_url": "https://x.com/beautyquotes0/status/2064667658721862101/video/1",
+              "media_key": "7_2064667622311096320",
+              "start": 72,
+              "url": "https://t.co/3aNFHue1iE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064667658721862101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1770,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "\"Cat.exe has stopped working… please turn upside down and try again. 😹\" https://t.co/3aNFHue1iE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 56,
+          "like_count": 1905,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T14:16:13.000Z",
+        "description": "",
+        "id": "904709691405615104",
+        "location": "Los Angeles ",
+        "name": "cats 🐈",
+        "pinned_tweet_id": "2064400579166966060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036383813857898496/2NSm1u7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14703,
+          "following_count": 8208,
+          "like_count": 541,
+          "listed_count": 22,
+          "media_count": 4623,
+          "tweet_count": 5468
+        },
+        "username": "beautyquotes0",
+        "verified": true
+      }
+    ]
+  }
+}

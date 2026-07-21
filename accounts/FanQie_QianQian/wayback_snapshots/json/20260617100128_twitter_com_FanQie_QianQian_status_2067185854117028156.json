@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067185846042972160"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067185854117028156",
+    "created_at": "2026-06-17T10:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067185854117028156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SID4KQXIOX",
+          "end": 41,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2067185854117028156/photo/1",
+          "media_key": "3_2067185846042972160",
+          "start": 18,
+          "url": "https://t.co/SID4KQXIOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067185854117028156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唧唧毛比唧唧長系列（有無碼小唧唧） https://t.co/SID4KQXIOX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067185854117028156].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067185854117028156",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067185854117028156"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2067185846042972160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAekxYbUAA4tg8.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 67,
+          "like_count": 3100,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

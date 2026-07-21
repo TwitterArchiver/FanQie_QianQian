@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068407867783401472"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068407874272026749",
+    "created_at": "2026-06-20T18:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068407874272026749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6WDrxyZ77",
+          "end": 31,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2068407874272026749/photo/1",
+          "media_key": "3_2068407867783401472",
+          "start": 8,
+          "url": "https://t.co/j6WDrxyZ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068407874272026749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "行吧我非你不嫁 https://t.co/j6WDrxyZ77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2068407867783401472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLR1_zHaUAA3ape.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068407867783401472"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068407874272026749",
+        "created_at": "2026-06-20T18:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068407874272026749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6WDrxyZ77",
+              "end": 31,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2068407874272026749/photo/1",
+              "media_key": "3_2068407867783401472",
+              "start": 8,
+              "url": "https://t.co/j6WDrxyZ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068407874272026749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "行吧我非你不嫁 https://t.co/j6WDrxyZ77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 75,
+          "like_count": 4174,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

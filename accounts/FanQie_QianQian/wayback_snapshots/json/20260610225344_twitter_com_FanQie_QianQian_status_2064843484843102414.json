@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064622600840757248"
+      ],
+      "media_source_tweet_id": [
+        "2064622604343034246"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2064843484843102414",
+    "created_at": "2026-06-10T22:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T23:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064843484843102414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2050228822818291712",
+          "start": 3,
+          "username": "blackheart47506"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jgwEYMBY3W",
+          "end": 44,
+          "expanded_url": "https://x.com/blackheart47506/status/2064622604343034246/photo/1",
+          "media_key": "3_2064622600840757248",
+          "start": 21,
+          "url": "https://t.co/jgwEYMBY3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064843484843102414",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064622604343034246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackheart47506: https://t.co/jgwEYMBY3W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2064622600840757248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcDUQ5bQAADtmL.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064622600840757248"
+          ],
+          "media_source_tweet_id": [
+            "2064622604343034246"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2064843484843102414",
+        "created_at": "2026-06-10T22:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064843484843102414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2050228822818291712",
+              "start": 3,
+              "username": "blackheart47506"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgwEYMBY3W",
+              "end": 44,
+              "expanded_url": "https://x.com/blackheart47506/status/2064622604343034246/photo/1",
+              "media_key": "3_2064622600840757248",
+              "start": 21,
+              "url": "https://t.co/jgwEYMBY3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064843484843102414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064622604343034246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackheart47506: https://t.co/jgwEYMBY3W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064622600840757248"
+          ]
+        },
+        "author_id": "2050228822818291712",
+        "conversation_id": "2064622604343034246",
+        "created_at": "2026-06-10T08:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064622604343034246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgwEYMBY3W",
+              "end": 23,
+              "expanded_url": "https://x.com/blackheart47506/status/2064622604343034246/photo/1",
+              "media_key": "3_2064622600840757248",
+              "start": 0,
+              "url": "https://t.co/jgwEYMBY3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064622604343034246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 5805,
+          "like_count": 322,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jgwEYMBY3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 56,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T15:00:34.000Z",
+        "description": "..𝐖𝐞𝐥𝐜𝐨𝐦𝐞.𝐭𝐨.𝐦𝐲.🖤💬..𝐁𝐚𝐥𝐜𝐤.𝐇𝐞𝐚𝐫𝐭.♡",
+        "id": "2050228822818291712",
+        "name": "blackheart",
+        "pinned_tweet_id": "2064761988035883164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050229434536603649/Svat8Iyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5029,
+          "following_count": 813,
+          "like_count": 35692,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 37998
+        },
+        "username": "blackheart47506",
+        "verified": true
+      }
+    ]
+  }
+}

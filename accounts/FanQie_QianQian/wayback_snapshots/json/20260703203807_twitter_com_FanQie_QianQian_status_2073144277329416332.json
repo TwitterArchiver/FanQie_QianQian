@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2073144277329416332",
+    "created_at": "2026-07-03T20:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073144277329416332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551431055408009216",
+          "start": 3,
+          "username": "kana40427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073144277329416332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072947385882517543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kana40427: ふ愛\n门槛\n88偶尔爆照和分享生活\n288 包括以上加了之后详谈\n\n有兴趣的私讯我🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2073144277329416332",
+        "created_at": "2026-07-03T20:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073144277329416332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551431055408009216",
+              "start": 3,
+              "username": "kana40427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073144277329416332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072947385882517543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kana40427: ふ愛\n门槛\n88偶尔爆照和分享生活\n288 包括以上加了之后详谈\n\n有兴趣的私讯我🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551431055408009216",
+        "conversation_id": "2072700675151294543",
+        "created_at": "2026-07-03T07:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072947385882517543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072947385882517543",
+        "in_reply_to_user_id": "1551431055408009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072700675151294543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ふ愛\n门槛\n88偶尔爆照和分享生活\n288 包括以上加了之后详谈\n\n有兴趣的私讯我🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 107,
+          "like_count": 5084,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2027
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T04:56:19.000Z",
+        "description": "互fo 可直接DM|自残+od+负能量｜内有血图慎入\n\n@afuai377",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "afuai377"
+              }
+            ]
+          }
+        },
+        "id": "1551431055408009216",
+        "location": "天国",
+        "name": "ᛪ༙𓉸ྀི 電脳少女そら𓉸ྀི ᛪ༙",
+        "pinned_tweet_id": "1806902521728025035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700655207346176/XlS9tkR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 116,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1783
+        },
+        "url": "",
+        "username": "kana40427",
+        "verified": false
+      }
+    ]
+  }
+}

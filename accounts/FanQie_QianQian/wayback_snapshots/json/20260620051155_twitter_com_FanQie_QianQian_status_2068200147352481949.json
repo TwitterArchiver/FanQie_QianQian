@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067946239535329642",
+    "created_at": "2026-06-20T05:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068200147352481949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1256511023479054341",
+          "start": 0,
+          "username": "Badass_SSSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068200147352481949",
+    "in_reply_to_user_id": "1256511023479054341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068179049881710783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badass_SSSS 你听国王乐队吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2067946239535329642",
+        "created_at": "2026-06-20T05:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068200147352481949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1256511023479054341",
+              "start": 0,
+              "username": "Badass_SSSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068200147352481949",
+        "in_reply_to_user_id": "1256511023479054341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068179049881710783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badass_SSSS 你听国王乐队吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256511023479054341",
+        "conversation_id": "2067946239535329642",
+        "created_at": "2026-06-20T03:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068179049881710783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068179049881710783",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067946239535329642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 哈哈哈哈哈用繩子固定起來變成強高放置了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 74,
+          "like_count": 3901,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T09:09:24.000Z",
+        "description": "游離在推特的遊魂-🌿自然組\n\n白嫩的皮膚上佈滿著鞭痕很美\n\n像是一塊畫布被我揮灑著美麗的顏料\n\n望周知智障跟調皮是兩件事情",
+        "id": "1256511023479054341",
+        "location": "Taoyuan County, Taiwan",
+        "name": "Lu Lu Lu 短髮控的變態",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537580736458334213/RlLoOI-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 431,
+          "like_count": 47700,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 7124
+        },
+        "url": "",
+        "username": "Badass_SSSS",
+        "verified": false
+      }
+    ]
+  }
+}

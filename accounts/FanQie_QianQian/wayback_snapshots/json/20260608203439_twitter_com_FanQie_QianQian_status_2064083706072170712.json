@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2064011807405293698",
+    "created_at": "2026-06-08T20:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064083706072170712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647929992637190144",
+          "start": 0,
+          "username": "fuhiri_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064083706072170712",
+    "in_reply_to_user_id": "1647929992637190144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064011807405293698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuhiri_sama 我操這個超級帥。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1934,
+        "media_key": "3_2064011798949609472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTXy6ibQAAIGlT.jpg",
+        "width": 1934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2064011807405293698",
+        "created_at": "2026-06-08T20:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064083706072170712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647929992637190144",
+              "start": 0,
+              "username": "fuhiri_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064083706072170712",
+        "in_reply_to_user_id": "1647929992637190144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064011807405293698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuhiri_sama 我操這個超級帥。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064011798949609472"
+          ]
+        },
+        "author_id": "1647929992637190144",
+        "conversation_id": "2064011807405293698",
+        "created_at": "2026-06-08T15:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064011807405293698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zy6gOMpagQ",
+              "end": 34,
+              "expanded_url": "https://x.com/fuhiri_sama/status/2064011807405293698/photo/1",
+              "media_key": "3_2064011798949609472",
+              "start": 11,
+              "url": "https://t.co/Zy6gOMpagQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064011807405293698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了對耳輪和rook https://t.co/Zy6gOMpagQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 43,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T11:48:54.000Z",
+        "description": "🇭🇰07 前世是魔法少女✝️廢文多，我很有禮貌不會隨便罵人所以快點來關注我吧🥺",
+        "id": "1647929992637190144",
+        "location": "Hong Kong",
+        "name": "比率分",
+        "pinned_tweet_id": "1811354832730833064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811145562252783616/zpwXbHN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 190,
+          "like_count": 7886,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 822
+        },
+        "username": "fuhiri_sama",
+        "verified": false
+      }
+    ]
+  }
+}

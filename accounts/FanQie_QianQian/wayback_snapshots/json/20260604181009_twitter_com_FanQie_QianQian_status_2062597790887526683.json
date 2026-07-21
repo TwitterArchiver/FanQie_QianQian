@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2062514200342384688",
+    "created_at": "2026-06-04T18:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062597790887526683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723559131846705152",
+          "start": 0,
+          "username": "cabrero_na66160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062597790887526683",
+    "in_reply_to_user_id": "1723559131846705152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062575594836205619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cabrero_na66160 寶寶 阿阿 張嘴＾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2062514200342384688",
+        "created_at": "2026-06-04T18:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062597790887526683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1723559131846705152",
+              "start": 0,
+              "username": "cabrero_na66160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062597790887526683",
+        "in_reply_to_user_id": "1723559131846705152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062575594836205619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cabrero_na66160 寶寶 阿阿 張嘴＾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723559131846705152",
+        "conversation_id": "2062514200342384688",
+        "created_at": "2026-06-04T16:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062575594836205619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062575594836205619",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062514200342384688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 妈妈 饿饿 饭饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 28,
+          "like_count": 931,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T04:31:45.000Z",
+        "description": "夏色祭单推人||不建政不搞黄 一个人在那幻想||pr戒断成功wok\n//我是小貘，一只食梦貘\n让我吃掉你的噩梦，给你一个香香软软的美梦～",
+        "id": "1723559131846705152",
+        "name": "小貘妥妥的🏮🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911606973637828608/rg1-sH-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 709,
+          "like_count": 14518,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1401
+        },
+        "username": "cabrero_na66160",
+        "verified": false
+      }
+    ]
+  }
+}

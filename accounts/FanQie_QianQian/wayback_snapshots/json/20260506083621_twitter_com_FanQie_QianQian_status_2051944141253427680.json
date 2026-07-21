@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2051944141253427680",
+    "created_at": "2026-05-06T08:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051944141253427680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051944141253427680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也好想像同齡人那樣 有什麼事情都可以依偎在媽媽的懷裏 我也想像同齡人一樣 有什麼事情都可以找媽媽傾訴 我愛你 媽媽 我知道你也愛我 只是 你愛我的方式太極端了 我感覺被迫害 我知道你是愛我的 但是我真的受不起喵 你還有姐姐還有弟弟 我希望你可以多愛他們一點 以正常的方式…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2051944141253427680",
+        "created_at": "2026-05-06T08:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051944141253427680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051944141253427680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也好想像同齡人那樣 有什麼事情都可以依偎在媽媽的懷裏 我也想像同齡人一樣 有什麼事情都可以找媽媽傾訴 我愛你 媽媽 我知道你也愛我 只是 你愛我的方式太極端了 我感覺被迫害 我知道你是愛我的 但是我真的受不起喵 你還有姐姐還有弟弟 我希望你可以多愛他們一點 以正常的方式…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 14,
+          "like_count": 337,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

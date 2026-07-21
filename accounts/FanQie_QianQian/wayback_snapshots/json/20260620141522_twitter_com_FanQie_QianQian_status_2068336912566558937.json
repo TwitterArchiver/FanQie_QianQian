@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068336912566558937",
+    "created_at": "2026-06-20T14:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068336912566558937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FanQie_QianQia…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/FanQie_QianQian/status/2068331234779083107",
+          "start": 5,
+          "url": "https://t.co/BNZY3X7yxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068336912566558937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068331234779083107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "掛掉了。 https://t.co/BNZY3X7yxr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068336912566558937",
+        "created_at": "2026-06-20T14:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336912566558937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FanQie_QianQia…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/FanQie_QianQian/status/2068331234779083107",
+              "start": 5,
+              "url": "https://t.co/BNZY3X7yxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336912566558937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068331234779083107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掛掉了。 https://t.co/BNZY3X7yxr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068331234779083107",
+        "created_at": "2026-06-20T13:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068331234779083107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068331234779083107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟洗洗已經打了35個小時的電話了 好喜歡他啊 剛睡醒就告訴我他在夢裏夢到了什麼 他好可愛我要炸了我是癡女🤤🤤🤤🤤🤤 我喜歡洗洗洗洗洗洗喵喵喵喵喵喵喵喵喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 73,
+          "like_count": 4124,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

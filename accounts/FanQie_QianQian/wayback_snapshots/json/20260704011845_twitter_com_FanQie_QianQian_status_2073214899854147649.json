@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2073214899854147649",
+    "created_at": "2026-07-04T01:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073214899854147649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072258787155816448",
+          "start": 3,
+          "username": "xxs1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073214899854147649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072262358043439427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxs1976: 这里是高性能小学生♡\n性别未知。\n喜欢玩舞萌dx 怪物猎人崛起和喷三，最近也有在打xx\n情绪不稳定且精力不是很足每天无精打采的，别骂我，骂我你只能看到一头猪从天而降且掷地有声\n喜欢喝酒，不od不割手。\n可以约勤。\n和我互fo送纯棉内裤\n请帮转偶内盖 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072262352188387328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMInoUeasAAi4D-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072262351454429184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMInoRvbYAARMSR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 664,
+        "media_key": "3_2072262331619491840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMInnH2aQAAiy4x.jpg",
+        "width": 1179
+      },
+      {
+        "height": 441,
+        "media_key": "3_2072262339492270081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMInnlLbUAERr5J.jpg",
+        "width": 1323
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2073214899854147649",
+        "created_at": "2026-07-04T01:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073214899854147649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072258787155816448",
+              "start": 3,
+              "username": "xxs1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073214899854147649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072262358043439427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxs1976: 这里是高性能小学生♡\n性别未知。\n喜欢玩舞萌dx 怪物猎人崛起和喷三，最近也有在打xx\n情绪不稳定且精力不是很足每天无精打采的，别骂我，骂我你只能看到一头猪从天而降且掷地有声\n喜欢喝酒，不od不割手。\n可以约勤。\n和我互fo送纯棉内裤\n请帮转偶内盖 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072262352188387328",
+            "3_2072262351454429184",
+            "3_2072262331619491840",
+            "3_2072262339492270081"
+          ]
+        },
+        "author_id": "2072258787155816448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072262358043439427",
+        "created_at": "2026-07-01T10:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072262358043439427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jYOqrdx9i",
+              "end": 148,
+              "expanded_url": "https://x.com/xxs1976/status/2072262358043439427/photo/1",
+              "media_key": "3_2072262352188387328",
+              "start": 125,
+              "url": "https://t.co/9jYOqrdx9i"
+            },
+            {
+              "display_url": "pic.x.com/9jYOqrdx9i",
+              "end": 148,
+              "expanded_url": "https://x.com/xxs1976/status/2072262358043439427/photo/1",
+              "media_key": "3_2072262351454429184",
+              "start": 125,
+              "url": "https://t.co/9jYOqrdx9i"
+            },
+            {
+              "display_url": "pic.x.com/9jYOqrdx9i",
+              "end": 148,
+              "expanded_url": "https://x.com/xxs1976/status/2072262358043439427/photo/1",
+              "media_key": "3_2072262331619491840",
+              "start": 125,
+              "url": "https://t.co/9jYOqrdx9i"
+            },
+            {
+              "display_url": "pic.x.com/9jYOqrdx9i",
+              "end": 148,
+              "expanded_url": "https://x.com/xxs1976/status/2072262358043439427/photo/1",
+              "media_key": "3_2072262339492270081",
+              "start": 125,
+              "url": "https://t.co/9jYOqrdx9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072262358043439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 908,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是高性能小学生♡\n性别未知。\n喜欢玩舞萌dx 怪物猎人崛起和喷三，最近也有在打xx\n情绪不稳定且精力不是很足每天无精打采的，别骂我，骂我你只能看到一头猪从天而降且掷地有声\n喜欢喝酒，不od不割手。\n可以约勤。\n和我互fo送纯棉内裤\n请帮转偶内盖 https://t.co/9jYOqrdx9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 112,
+          "like_count": 5252,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T10:00:13.000Z",
+        "description": "小学生已正式启用3.0。\nlgbtq全友好 就是别恶心我\n禁止把我的帖转到墙内\n好厚米@ANDEL0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ANDEL0426"
+              }
+            ]
+          }
+        },
+        "id": "2072258787155816448",
+        "name": "高性能小学生3.0",
+        "pinned_tweet_id": "2072262358043439427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072259319593394176/QYNajH1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 148,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "xxs1976",
+        "verified": false
+      }
+    ]
+  }
+}

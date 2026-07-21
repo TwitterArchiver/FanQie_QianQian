@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2024902952297886068",
+    "created_at": "2026-07-03T21:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073157064118173969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240563575032180736",
+          "start": 0,
+          "username": "yushengjiujiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073157064118173969",
+    "in_reply_to_user_id": "1240563575032180736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024902952297886068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushengjiujiu 窩趣窩趣窩趣寶寶寶寶寶寶我喜歡你我喜歡你我喜歡你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024902925336936449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnme3FbgAEnPJj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2024902925286510592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnme25aEAAOsvJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2024902925341130756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnme3GbgAQYu6h.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2024902925294993409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnme27bgAEJWDU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2024902952297886068",
+        "created_at": "2026-07-03T21:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073157064118173969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240563575032180736",
+              "start": 0,
+              "username": "yushengjiujiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073157064118173969",
+        "in_reply_to_user_id": "1240563575032180736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024902952297886068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushengjiujiu 窩趣窩趣窩趣寶寶寶寶寶寶我喜歡你我喜歡你我喜歡你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024902925336936449",
+            "3_2024902925286510592",
+            "3_2024902925341130756",
+            "3_2024902925294993409"
+          ]
+        },
+        "author_id": "1240563575032180736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024902952297886068",
+        "created_at": "2026-02-20T17:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024902952297886068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "4i"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "iiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2MNcAlIIV",
+              "end": 62,
+              "expanded_url": "https://x.com/yushengjiujiu/status/2024902952297886068/photo/1",
+              "media_key": "3_2024902925336936449",
+              "start": 39,
+              "url": "https://t.co/J2MNcAlIIV"
+            },
+            {
+              "display_url": "pic.x.com/J2MNcAlIIV",
+              "end": 62,
+              "expanded_url": "https://x.com/yushengjiujiu/status/2024902952297886068/photo/1",
+              "media_key": "3_2024902925286510592",
+              "start": 39,
+              "url": "https://t.co/J2MNcAlIIV"
+            },
+            {
+              "display_url": "pic.x.com/J2MNcAlIIV",
+              "end": 62,
+              "expanded_url": "https://x.com/yushengjiujiu/status/2024902952297886068/photo/1",
+              "media_key": "3_2024902925341130756",
+              "start": 39,
+              "url": "https://t.co/J2MNcAlIIV"
+            },
+            {
+              "display_url": "pic.x.com/J2MNcAlIIV",
+              "end": 62,
+              "expanded_url": "https://x.com/yushengjiujiu/status/2024902952297886068/photo/1",
+              "media_key": "3_2024902925294993409",
+              "start": 39,
+              "url": "https://t.co/J2MNcAlIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024902952297886068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 135647,
+          "like_count": 583,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是你的草莓小蛋糕吗\n #伪娘 #男の娘 #可爱の男孩子 #4i #iiii https://t.co/J2MNcAlIIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 109,
+          "like_count": 5181,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2057
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T08:59:49.000Z",
+        "description": "漂亮小男娘请立刻和我结婚(⁎⁍̴̛ᴗ⁍̴̛⁎)/4i",
+        "id": "1240563575032180736",
+        "name": "🐰",
+        "pinned_tweet_id": "2024902952297886068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053673696381009920/rgb6r3uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6690,
+          "following_count": 888,
+          "like_count": 9784,
+          "listed_count": 37,
+          "media_count": 169,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "yushengjiujiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067585918677201257",
+    "created_at": "2026-06-19T11:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067930139225436389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1781876534967746560",
+          "start": 0,
+          "username": "OuGenDuQin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067930139225436389",
+    "in_reply_to_user_id": "1781876534967746560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067585918677201257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuGenDuQin 泥萌我一大跳！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2481,
+        "height": 960,
+        "media_key": "7_2067585870841180160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067585870841180160/pu/img/dTbrHz2xo03d2eQh.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067585870841180160/pu/vid/avc1/320x426/1QU9aCMw0UY_ooY3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067585870841180160/pu/vid/avc1/480x640/Zsm0jPLmnWxQDc-E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067585870841180160/pu/vid/avc1/720x960/UMguyj3PjPid1LD_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067585870841180160/pu/pl/9CJqf-Dxsu9CthKj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2067585918677201257",
+        "created_at": "2026-06-19T11:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067930139225436389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781876534967746560",
+              "start": 0,
+              "username": "OuGenDuQin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930139225436389",
+        "in_reply_to_user_id": "1781876534967746560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585918677201257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuGenDuQin 泥萌我一大跳！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067585870841180160"
+          ]
+        },
+        "author_id": "1781876534967746560",
+        "conversation_id": "2067585918677201257",
+        "created_at": "2026-06-18T12:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067585918677201257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2QE15Xqvk",
+              "end": 36,
+              "expanded_url": "https://x.com/OuGenDuQin/status/2067585918677201257/video/1",
+              "media_key": "7_2067585870841180160",
+              "start": 13,
+              "url": "https://t.co/s2QE15Xqvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067585918677201257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 519,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OOTD！！萌袖是对的吗 https://t.co/s2QE15Xqvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 74,
+          "like_count": 3828,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T02:44:20.000Z",
+        "description": "海鹽檸檬氣泡ぃ",
+        "id": "1781876534967746560",
+        "location": "Nara-shi, Nara",
+        "name": "♡Tosaka☆Makuku♡",
+        "pinned_tweet_id": "2063864859553661035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063211937689985025/QmCk3beq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 327,
+          "like_count": 3074,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "OuGenDuQin",
+        "verified": false
+      }
+    ]
+  }
+}

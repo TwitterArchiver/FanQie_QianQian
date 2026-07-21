@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072675018786639872",
+        "3_2072675018702823424"
+      ],
+      "media_source_tweet_id": [
+        "2072675028274196543",
+        "2072675028274196543"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2073119376757416237",
+    "created_at": "2026-07-03T18:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073119376757416237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542108779302760449",
+          "start": 3,
+          "username": "C10n3_F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbQWFfvDPj",
+          "end": 36,
+          "expanded_url": "https://x.com/C10n3_F/status/2072675028274196543/photo/1",
+          "media_key": "3_2072675018786639872",
+          "start": 13,
+          "url": "https://t.co/gbQWFfvDPj"
+        },
+        {
+          "display_url": "pic.x.com/gbQWFfvDPj",
+          "end": 36,
+          "expanded_url": "https://x.com/C10n3_F/status/2072675028274196543/photo/1",
+          "media_key": "3_2072675018702823424",
+          "start": 13,
+          "url": "https://t.co/gbQWFfvDPj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073119376757416237",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072675028274196543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C10n3_F: https://t.co/gbQWFfvDPj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3160,
+        "media_key": "3_2072675018786639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOe8rWakAAQciC.jpg",
+        "width": 2528
+      },
+      {
+        "height": 3160,
+        "media_key": "3_2072675018702823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOe8rCboAAJ7BW.jpg",
+        "width": 2528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072675018786639872",
+            "3_2072675018702823424"
+          ],
+          "media_source_tweet_id": [
+            "2072675028274196543",
+            "2072675028274196543"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2073119376757416237",
+        "created_at": "2026-07-03T18:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073119376757416237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542108779302760449",
+              "start": 3,
+              "username": "C10n3_F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbQWFfvDPj",
+              "end": 36,
+              "expanded_url": "https://x.com/C10n3_F/status/2072675028274196543/photo/1",
+              "media_key": "3_2072675018786639872",
+              "start": 13,
+              "url": "https://t.co/gbQWFfvDPj"
+            },
+            {
+              "display_url": "pic.x.com/gbQWFfvDPj",
+              "end": 36,
+              "expanded_url": "https://x.com/C10n3_F/status/2072675028274196543/photo/1",
+              "media_key": "3_2072675018702823424",
+              "start": 13,
+              "url": "https://t.co/gbQWFfvDPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073119376757416237",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072675028274196543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C10n3_F: https://t.co/gbQWFfvDPj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072675018786639872",
+            "3_2072675018702823424"
+          ]
+        },
+        "author_id": "1542108779302760449",
+        "conversation_id": "2072675028274196543",
+        "created_at": "2026-07-02T13:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072675028274196543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbQWFfvDPj",
+              "end": 23,
+              "expanded_url": "https://x.com/C10n3_F/status/2072675028274196543/photo/1",
+              "media_key": "3_2072675018786639872",
+              "start": 0,
+              "url": "https://t.co/gbQWFfvDPj"
+            },
+            {
+              "display_url": "pic.x.com/gbQWFfvDPj",
+              "end": 23,
+              "expanded_url": "https://x.com/C10n3_F/status/2072675028274196543/photo/1",
+              "media_key": "3_2072675018702823424",
+              "start": 0,
+              "url": "https://t.co/gbQWFfvDPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072675028274196543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gbQWFfvDPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 107,
+          "like_count": 5055,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Dry your tears with love |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "location": "🚪88｜🦴@me0420_",
+        "name": "Clone",
+        "pinned_tweet_id": "2062491984724701210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068380581579390976/yFrnlSzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 337,
+          "like_count": 9560,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

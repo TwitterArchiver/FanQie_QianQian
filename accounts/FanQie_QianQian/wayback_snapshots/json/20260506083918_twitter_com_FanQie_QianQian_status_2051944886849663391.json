@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2051944886849663391",
+    "created_at": "2026-05-06T08:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051944886849663391"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051944886849663391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就像你常說的 正常青春期的女孩都應該把自己打扮的漂漂亮亮 而不是滿身傷痕 可是我真的好難受 對不起 媽媽 我愛你 你說我是瘋子 我不是正常人 我認了 我已經回不去了喵 我也好想可以像小時候那樣 躲在你懷裏哭一會 幫我擦眼淚 我愛你 很愛很愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2051944886849663391",
+        "created_at": "2026-05-06T08:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051944886849663391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051944886849663391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就像你常說的 正常青春期的女孩都應該把自己打扮的漂漂亮亮 而不是滿身傷痕 可是我真的好難受 對不起 媽媽 我愛你 你說我是瘋子 我不是正常人 我認了 我已經回不去了喵 我也好想可以像小時候那樣 躲在你懷裏哭一會 幫我擦眼淚 我愛你 很愛很愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 14,
+          "like_count": 337,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

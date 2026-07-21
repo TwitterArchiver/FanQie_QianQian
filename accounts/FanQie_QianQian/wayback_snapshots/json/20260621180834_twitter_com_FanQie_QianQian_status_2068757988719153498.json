@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068712359582130176",
+        "3_2068712359561220096"
+      ],
+      "media_source_tweet_id": [
+        "2068712386127937918",
+        "2068712386127937918"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068757988719153498",
+    "created_at": "2026-06-21T18:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068757988719153498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013724577529049088",
+          "start": 3,
+          "username": "_roopuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/omerpLHGNB",
+          "end": 73,
+          "expanded_url": "https://x.com/_roopuu/status/2068712386127937918/photo/1",
+          "media_key": "3_2068712359582130176",
+          "start": 50,
+          "url": "https://t.co/omerpLHGNB"
+        },
+        {
+          "display_url": "pic.x.com/omerpLHGNB",
+          "end": 73,
+          "expanded_url": "https://x.com/_roopuu/status/2068712386127937918/photo/1",
+          "media_key": "3_2068712359561220096",
+          "start": 50,
+          "url": "https://t.co/omerpLHGNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068757988719153498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068712386127937918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_roopuu: 可以赞助我一些钱吗 都会用来生活以及做手…\n\n抱歉，可能会打扰你的时间线 https://t.co/omerpLHGNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2068712359582130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWK7jdaYAAuepp.jpg",
+        "width": 828
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2068712359561220096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWK7jYbUAAQNcH.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068712359582130176",
+            "3_2068712359561220096"
+          ],
+          "media_source_tweet_id": [
+            "2068712386127937918",
+            "2068712386127937918"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068757988719153498",
+        "created_at": "2026-06-21T18:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068757988719153498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013724577529049088",
+              "start": 3,
+              "username": "_roopuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omerpLHGNB",
+              "end": 73,
+              "expanded_url": "https://x.com/_roopuu/status/2068712386127937918/photo/1",
+              "media_key": "3_2068712359582130176",
+              "start": 50,
+              "url": "https://t.co/omerpLHGNB"
+            },
+            {
+              "display_url": "pic.x.com/omerpLHGNB",
+              "end": 73,
+              "expanded_url": "https://x.com/_roopuu/status/2068712386127937918/photo/1",
+              "media_key": "3_2068712359561220096",
+              "start": 50,
+              "url": "https://t.co/omerpLHGNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068757988719153498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068712386127937918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_roopuu: 可以赞助我一些钱吗 都会用来生活以及做手…\n\n抱歉，可能会打扰你的时间线 https://t.co/omerpLHGNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068712359582130176",
+            "3_2068712359561220096"
+          ]
+        },
+        "author_id": "2013724577529049088",
+        "conversation_id": "2068712386127937918",
+        "created_at": "2026-06-21T15:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068712386127937918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omerpLHGNB",
+              "end": 60,
+              "expanded_url": "https://x.com/_roopuu/status/2068712386127937918/photo/1",
+              "media_key": "3_2068712359582130176",
+              "start": 37,
+              "url": "https://t.co/omerpLHGNB"
+            },
+            {
+              "display_url": "pic.x.com/omerpLHGNB",
+              "end": 60,
+              "expanded_url": "https://x.com/_roopuu/status/2068712386127937918/photo/1",
+              "media_key": "3_2068712359561220096",
+              "start": 37,
+              "url": "https://t.co/omerpLHGNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068712386127937918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以赞助我一些钱吗 都会用来生活以及做手…\n\n抱歉，可能会打扰你的时间线 https://t.co/omerpLHGNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 94,
+          "like_count": 4626,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "|| 本垢 @_ropu || 暴论传播机 || 号主是未成年的吸血鬼 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": ",,ᗜ - ᗜ,,プロ",
+        "pinned_tweet_id": "2059631799094161801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 148,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067275295946850494",
+    "created_at": "2026-06-17T15:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067275295946850494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eternalclassic…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/eternalclassic_/status/2067076514781257995",
+          "start": 5,
+          "url": "https://t.co/JOazGCEF5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067275295946850494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067076514781257995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大胃•袋 https://t.co/JOazGCEF5e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19644,
+        "height": 1080,
+        "media_key": "13_2066964731433308160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066964731433308160/img/aP__HCNdv7WNLRXK.jpg",
+        "public_metrics": {
+          "view_count": 580986
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066964731433308160/vid/avc1/480x360/q5gIWQWoH6ebiQJP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066964731433308160/vid/avc1/960x720/06oMv5Czey5ISitI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066964731433308160/pl/x2Exc3mW80QdXdKg.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066964731433308160/vid/avc1/1440x1080/0CLYx_ELUI5AMWFj.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066964731433308160/vid/avc1/360x270/-M5pLrzAVsD_BIut.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2067275295946850494",
+        "created_at": "2026-06-17T15:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067275295946850494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eternalclassic…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/eternalclassic_/status/2067076514781257995",
+              "start": 5,
+              "url": "https://t.co/JOazGCEF5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067275295946850494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067076514781257995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大胃•袋 https://t.co/JOazGCEF5e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066964731433308160"
+          ]
+        },
+        "author_id": "1490343047233773572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067076514781257995",
+        "created_at": "2026-06-17T02:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067076514781257995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94GVgvYeYm",
+              "end": 62,
+              "expanded_url": "https://x.com/eternalclassic_/status/2067076514781257995/video/1",
+              "media_key": "13_2066964731433308160",
+              "start": 39,
+              "url": "https://t.co/94GVgvYeYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067076514781257995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4420,
+          "impression_count": 1212883,
+          "like_count": 16019,
+          "quote_count": 196,
+          "reply_count": 178,
+          "retweet_count": 1346
+        },
+        "reply_settings": "everyone",
+        "text": "\"i really want to stay at your buffet\" https://t.co/94GVgvYeYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 67,
+          "like_count": 3156,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:14:43.000Z",
+        "description": "merch: https://t.co/MeNysr9tHF     music: https://t.co/RfFjfZaPUO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "eternalclassic.store",
+                "end": 30,
+                "expanded_url": "http://eternalclassic.store",
+                "start": 7,
+                "url": "https://t.co/MeNysr9tHF"
+              },
+              {
+                "display_url": "x.com/afterpiece_",
+                "end": 65,
+                "expanded_url": "http://x.com/afterpiece_",
+                "start": 42,
+                "url": "https://t.co/RfFjfZaPUO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/eternalclassic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/eternalclassic",
+                "start": 0,
+                "url": "https://t.co/UYb5LUVZA1"
+              }
+            ]
+          }
+        },
+        "id": "1490343047233773572",
+        "location": "internet",
+        "name": "eternal classic",
+        "pinned_tweet_id": "2009714394163527935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994541083179483136/rktUCw0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40013,
+          "following_count": 2,
+          "like_count": 406,
+          "listed_count": 83,
+          "media_count": 32095,
+          "tweet_count": 32673
+        },
+        "url": "https://t.co/UYb5LUVZA1",
+        "username": "eternalclassic_",
+        "verified": true
+      }
+    ]
+  }
+}

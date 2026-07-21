@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068447410624377249",
+    "created_at": "2026-07-03T21:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073162014239981800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489242424094326785",
+          "start": 0,
+          "username": "sojucoholic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073162014239981800",
+    "in_reply_to_user_id": "1489242424094326785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068447410624377249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sojucoholic 我操這個眼神。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068447400612528128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSZ86YXAAAoy5o.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068447410624377249",
+        "created_at": "2026-07-03T21:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073162014239981800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489242424094326785",
+              "start": 0,
+              "username": "sojucoholic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073162014239981800",
+        "in_reply_to_user_id": "1489242424094326785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068447410624377249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sojucoholic 我操這個眼神。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068447400612528128"
+          ]
+        },
+        "author_id": "1489242424094326785",
+        "conversation_id": "2068447410624377249",
+        "created_at": "2026-06-20T21:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068447410624377249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvGmGX8Sg2",
+              "end": 44,
+              "expanded_url": "https://x.com/sojucoholic/status/2068447410624377249/photo/1",
+              "media_key": "3_2068447400612528128",
+              "start": 21,
+              "url": "https://t.co/DvGmGX8Sg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068447410624377249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2607,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i miss my black hair https://t.co/DvGmGX8Sg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 110,
+          "like_count": 5211,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T14:21:41.000Z",
+        "description": "17 𓄧 he said “early tomorrow i will call for you”, i said “no, my dear. i won’t wake for you.”\n⤷ #obstwt #shedtwt #yaoitwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "obstwt"
+              },
+              {
+                "end": 113,
+                "start": 105,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "tag": "yaoitwt"
+              }
+            ]
+          }
+        },
+        "id": "1489242424094326785",
+        "location": "(₌ ᵕ̣̣̣̣̣ ᆽ ᵕ̣̣̣̣̣₌)",
+        "name": "soju",
+        "pinned_tweet_id": "2067936231791403313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062169119311470592/pqH3ZDUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 180,
+          "like_count": 4409,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "sojucoholic",
+        "verified": false
+      }
+    ]
+  }
+}

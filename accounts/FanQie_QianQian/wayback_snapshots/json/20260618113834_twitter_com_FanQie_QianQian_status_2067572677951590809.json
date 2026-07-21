@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067572670246612992"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067539305795653943",
+    "created_at": "2026-06-18T11:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067572677951590809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5uv4bZgVd",
+          "end": 33,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2067572677951590809/photo/1",
+          "media_key": "3_2067572670246612992",
+          "start": 10,
+          "url": "https://t.co/g5uv4bZgVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067572677951590809",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067539305795653943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 你猜 https://t.co/g5uv4bZgVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067572670246612992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF-Y51a8AAfZN5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2067536753691656192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFduSPbAAABdOf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2067539286988304385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFgBvgaMAE_B88.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067572670246612992"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2067539305795653943",
+        "created_at": "2026-06-18T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067572677951590809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5uv4bZgVd",
+              "end": 33,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2067572677951590809/photo/1",
+              "media_key": "3_2067572670246612992",
+              "start": 10,
+              "url": "https://t.co/g5uv4bZgVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067572677951590809",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067539305795653943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 你猜 https://t.co/g5uv4bZgVd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067536753691656192",
+            "3_2067539286988304385"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067539305795653943",
+        "created_at": "2026-06-18T09:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:15:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067536769294401994",
+          "2067539305795653943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLjWHwdMmo",
+              "end": 46,
+              "expanded_url": "https://x.com/_ropu/status/2067539305795653943/photo/1",
+              "media_key": "3_2067536753691656192",
+              "start": 23,
+              "url": "https://t.co/PLjWHwdMmo"
+            },
+            {
+              "display_url": "pic.x.com/PLjWHwdMmo",
+              "end": 46,
+              "expanded_url": "https://x.com/_ropu/status/2067539305795653943/photo/1",
+              "media_key": "3_2067539286988304385",
+              "start": 23,
+              "url": "https://t.co/PLjWHwdMmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067539305795653943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 905,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日大赛（？）\n今天你吃什么了，来吧，展示😋 https://t.co/PLjWHwdMmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 71,
+          "like_count": 3482,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31564,
+          "following_count": 4560,
+          "like_count": 16456,
+          "listed_count": 35,
+          "media_count": 4871,
+          "tweet_count": 35789
+        },
+        "url": "",
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

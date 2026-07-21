@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051752199035011072"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2051753420537954589",
+    "created_at": "2026-05-05T19:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051753420537954589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gXMLzlHg2t",
+          "end": 129,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2051753420537954589/photo/1",
+          "media_key": "3_2051752199035011072",
+          "start": 106,
+          "url": "https://t.co/gXMLzlHg2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051753420537954589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不做任何門檻 不接任何線下 \n門檻費不退致歉。\n交友大歡迎（我很溫良？！！！\n謝謝你們的喜歡喵？！！\n讚賞請在條件範圍內喔？\n給我的錢都會拿去買好吃的或者幫助一些小寶寶喵！！！\n喜歡喜歡你們喵喵喵喵喵？！！！！ https://t.co/gXMLzlHg2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2051752199035011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlJwR6bwAAi_k5.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051752199035011072"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2051753420537954589",
+        "created_at": "2026-05-05T19:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051753420537954589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXMLzlHg2t",
+              "end": 129,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2051753420537954589/photo/1",
+              "media_key": "3_2051752199035011072",
+              "start": 106,
+              "url": "https://t.co/gXMLzlHg2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051753420537954589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不做任何門檻 不接任何線下 \n門檻費不退致歉。\n交友大歡迎（我很溫良？！！！\n謝謝你們的喜歡喵？！！\n讚賞請在條件範圍內喔？\n給我的錢都會拿去買好吃的或者幫助一些小寶寶喵！！！\n喜歡喜歡你們喵喵喵喵喵？！！！！ https://t.co/gXMLzlHg2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2048007891450483082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 14,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

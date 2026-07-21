@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068602547754160364",
+    "created_at": "2026-06-21T14:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068704819595165877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1340471656486080517",
+          "start": 0,
+          "username": "DumbBitch913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068704819595165877",
+    "in_reply_to_user_id": "1340471656486080517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068689297356771615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DumbBitch913 啊啊啊嚇哭了揉揉你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068602547754160364",
+        "created_at": "2026-06-21T14:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068704819595165877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1340471656486080517",
+              "start": 0,
+              "username": "DumbBitch913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068704819595165877",
+        "in_reply_to_user_id": "1340471656486080517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068689297356771615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DumbBitch913 啊啊啊嚇哭了揉揉你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340471656486080517",
+        "conversation_id": "2068602547754160364",
+        "created_at": "2026-06-21T13:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068689297356771615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068689297356771615",
+        "in_reply_to_user_id": "1340471656486080517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068688885090336806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 斷片之后醫生還拿cctv給我看🤦‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 92,
+          "like_count": 4587,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T01:38:49.000Z",
+        "description": "#shtwt 18 yrs40kg💭 she/her ໒꒰ྀི 𖦹 ˕ × ꒱ྀིა eng/中 hk x ca",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1340471656486080517",
+        "location": "hell",
+        "name": "蛋包饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062152822393843713/_QY2EvOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 93,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "DumbBitch913",
+        "verified": false
+      }
+    ]
+  }
+}

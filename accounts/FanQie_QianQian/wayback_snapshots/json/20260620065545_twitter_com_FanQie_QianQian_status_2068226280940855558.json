@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068223070742221295",
+    "created_at": "2026-06-20T06:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068226280940855558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485914027209687047",
+          "start": 0,
+          "username": "caizhisheng3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226280940855558",
+    "in_reply_to_user_id": "1485914027209687047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068223807081574624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caizhisheng3 抽死泥？！湊貓？！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2068223805135491072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPOl8UbkAA0Gca.jpg",
+        "width": 210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068223070742221295",
+        "created_at": "2026-06-20T06:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068226280940855558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485914027209687047",
+              "start": 0,
+              "username": "caizhisheng3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226280940855558",
+        "in_reply_to_user_id": "1485914027209687047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068223807081574624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caizhisheng3 抽死泥？！湊貓？！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068223805135491072"
+          ]
+        },
+        "author_id": "1485914027209687047",
+        "conversation_id": "2068223070742221295",
+        "created_at": "2026-06-20T06:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068223807081574624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Z6nVo6Qzy",
+              "end": 47,
+              "expanded_url": "https://x.com/caizhisheng3/status/2068223807081574624/photo/1",
+              "media_key": "3_2068223805135491072",
+              "start": 24,
+              "url": "https://t.co/2Z6nVo6Qzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068223807081574624",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068223070742221295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 別抽了 抽我 https://t.co/2Z6nVo6Qzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 73,
+          "like_count": 4002,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T09:55:08.000Z",
+        "description": "",
+        "id": "1485914027209687047",
+        "location": "Miaoli County, Taiwan",
+        "name": "蛤，不會飛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858131977469390848/5pKZGkCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 1029,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "caizhisheng3",
+        "verified": false
+      }
+    ]
+  }
+}

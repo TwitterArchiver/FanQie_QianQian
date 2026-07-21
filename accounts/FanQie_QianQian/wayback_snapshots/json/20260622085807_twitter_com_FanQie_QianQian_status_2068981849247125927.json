@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068899652699873694",
+    "created_at": "2026-06-22T08:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068981849247125927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055521229625262080",
+          "start": 0,
+          "username": "ynxxx_jjkk"
+        },
+        {
+          "end": 24,
+          "id": "1362745661318332419",
+          "start": 12,
+          "username": "BlueAquaray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068981849247125927",
+    "in_reply_to_user_id": "2055521229625262080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068974392261083493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynxxx_jjkk @BlueAquaray 奧利奧小靈感早上好呀🤤🤤🤤🤤賽博摸摸🐈🐈🐈🐈🐈🐈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068974380802326528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ5PMkbQAAGhwH.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068899652699873694",
+        "created_at": "2026-06-22T08:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068981849247125927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055521229625262080",
+              "start": 0,
+              "username": "ynxxx_jjkk"
+            },
+            {
+              "end": 24,
+              "id": "1362745661318332419",
+              "start": 12,
+              "username": "BlueAquaray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068981849247125927",
+        "in_reply_to_user_id": "2055521229625262080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068974392261083493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynxxx_jjkk @BlueAquaray 奧利奧小靈感早上好呀🤤🤤🤤🤤賽博摸摸🐈🐈🐈🐈🐈🐈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068974380802326528"
+          ]
+        },
+        "author_id": "2055521229625262080",
+        "conversation_id": "2068899652699873694",
+        "created_at": "2026-06-22T08:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068974392261083493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362745661318332419",
+              "start": 0,
+              "username": "BlueAquaray"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0P1AfeheAd",
+              "end": 62,
+              "expanded_url": "https://x.com/ynxxx_jjkk/status/2068974392261083493/photo/1",
+              "media_key": "3_2068974380802326528",
+              "start": 39,
+              "url": "https://t.co/0P1AfeheAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068974392261083493",
+        "in_reply_to_user_id": "1362745661318332419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068899652699873694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueAquaray 早上好！小灵感起的好早呀\n我叫奥利奥我是个贪睡鬼！ https://t.co/0P1AfeheAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 109,
+          "like_count": 4790,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n前两个号都被封了，这是我的3.0\n我还存在在@YNxxxjjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "YNxxxjjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 263,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T12:48:36.000Z",
+        "description": "像浪花一样消失。",
+        "id": "1362745661318332419",
+        "location": "涟漪中心",
+        "name": "潮",
+        "pinned_tweet_id": "2068597849869398339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068474149710995456/H-1V3oMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 66,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "BlueAquaray",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068762234319433740",
+    "created_at": "2026-06-21T19:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068771340916813964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "fanwei__17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068771340916813964",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068762234319433740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanwei__17 文筆好強！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2068762231316312064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLW4SeJacAApl9t.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068762234319433740",
+        "created_at": "2026-06-21T19:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068771340916813964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "fanwei__17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068771340916813964",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068762234319433740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei__17 文筆好強！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068762231316312064"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2068762234319433740",
+        "created_at": "2026-06-21T18:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068762234319433740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpAkvJhsyU",
+              "end": 74,
+              "expanded_url": "https://x.com/fanwei__17/status/2068762234319433740/photo/1",
+              "media_key": "3_2068762231316312064",
+              "start": 51,
+              "url": "https://t.co/WpAkvJhsyU"
+            },
+            {
+              "display_url": "x.com/0nemoresec/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/0nemoresec/status/2061825677217923445",
+              "start": 75,
+              "url": "https://t.co/L3ZwqnGStW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068762234319433740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061825677217923445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026.6.22 凌晨2:22\n我见到了你   反射着冷光的玻璃渣\n你很美  永远住在我的内幻里吧 https://t.co/WpAkvJhsyU https://t.co/L3ZwqnGStW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 97,
+          "like_count": 4654,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "随性",
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 82,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "fanwei__17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2062566386396971193",
+    "created_at": "2026-06-04T16:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062566386396971193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nu1tZ333216/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Nu1tZ333216/status/2062397040072786392",
+          "start": 6,
+          "url": "https://t.co/4uGM6okUvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062566386396971193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062397040072786392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "聊騷認識的 https://t.co/4uGM6okUvJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2062566386396971193",
+        "created_at": "2026-06-04T16:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062566386396971193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nu1tZ333216/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Nu1tZ333216/status/2062397040072786392",
+              "start": 6,
+              "url": "https://t.co/4uGM6okUvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062566386396971193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062397040072786392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "聊騷認識的 https://t.co/4uGM6okUvJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2062397040072786392",
+        "created_at": "2026-06-04T04:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062397040072786392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062397040072786392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1332,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是怎么在推上找到对象的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 28,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？      航天/交通/地理/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 混沌中立 已去键政化......                  夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 139,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 116,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "Nu1tZ.",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1710,
+          "like_count": 77264,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 4704
+        },
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

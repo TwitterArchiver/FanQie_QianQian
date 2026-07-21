@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2073129702408249561",
+    "created_at": "2026-07-03T20:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073138806967144817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810287810869620736",
+          "start": 0,
+          "username": "hitomicuren1dle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073138806967144817",
+    "in_reply_to_user_id": "1810287810869620736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073129702408249561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hitomicuren1dle 姐姐我喜歡泥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073129688168587264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMU8d6ya4AAmqAV.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2073129702408249561",
+        "created_at": "2026-07-03T20:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073138806967144817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810287810869620736",
+              "start": 0,
+              "username": "hitomicuren1dle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073138806967144817",
+        "in_reply_to_user_id": "1810287810869620736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073129702408249561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hitomicuren1dle 姐姐我喜歡泥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073129688168587264"
+          ]
+        },
+        "author_id": "1810287810869620736",
+        "conversation_id": "2073129702408249561",
+        "created_at": "2026-07-03T19:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073129702408249561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Di1cRT2oUL",
+              "end": 23,
+              "expanded_url": "https://x.com/hitomicuren1dle/status/2073129702408249561/photo/1",
+              "media_key": "3_2073129688168587264",
+              "start": 0,
+              "url": "https://t.co/Di1cRT2oUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073129702408249561",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 163,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Di1cRT2oUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 107,
+          "like_count": 5076,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T12:20:36.000Z",
+        "description": "链接里是我在其他平台的账号 除此之外都不是本人 请注意辨别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/61119218ZSYbE",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/61119218ZSYbE",
+                "start": 0,
+                "url": "https://t.co/Nlbm2oJpRe"
+              }
+            ]
+          }
+        },
+        "id": "1810287810869620736",
+        "name": "瞳",
+        "pinned_tweet_id": "2050115304932680109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014800460520292352/CPpdO9ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6150,
+          "following_count": 76,
+          "like_count": 1974,
+          "listed_count": 16,
+          "media_count": 119,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/Nlbm2oJpRe",
+        "username": "hitomicuren1dle",
+        "verified": false
+      }
+    ]
+  }
+}

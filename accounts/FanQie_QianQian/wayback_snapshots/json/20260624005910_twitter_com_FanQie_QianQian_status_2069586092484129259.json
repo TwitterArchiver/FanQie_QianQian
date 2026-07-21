@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068935347501772800"
+      ],
+      "media_source_tweet_id": [
+        "2068935353906446807"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2069586092484129259",
+    "created_at": "2026-06-24T00:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069586092484129259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854659890838700032",
+          "start": 3,
+          "username": "emolian0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msFTwb0xCM",
+          "end": 37,
+          "expanded_url": "https://x.com/emolian0/status/2068935353906446807/photo/1",
+          "media_key": "3_2068935347501772800",
+          "start": 14,
+          "url": "https://t.co/msFTwb0xCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069586092484129259",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4697
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068935353906446807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emolian0: https://t.co/msFTwb0xCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2068935347501772800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZVvKMXsAAKTsQ.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068935347501772800"
+          ],
+          "media_source_tweet_id": [
+            "2068935353906446807"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2069586092484129259",
+        "created_at": "2026-06-24T00:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069586092484129259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854659890838700032",
+              "start": 3,
+              "username": "emolian0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msFTwb0xCM",
+              "end": 37,
+              "expanded_url": "https://x.com/emolian0/status/2068935353906446807/photo/1",
+              "media_key": "3_2068935347501772800",
+              "start": 14,
+              "url": "https://t.co/msFTwb0xCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069586092484129259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4697
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068935353906446807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emolian0: https://t.co/msFTwb0xCM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068935347501772800"
+          ]
+        },
+        "author_id": "1854659890838700032",
+        "conversation_id": "2068935353906446807",
+        "created_at": "2026-06-22T05:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068935353906446807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msFTwb0xCM",
+              "end": 23,
+              "expanded_url": "https://x.com/emolian0/status/2068935353906446807/photo/1",
+              "media_key": "3_2068935347501772800",
+              "start": 0,
+              "url": "https://t.co/msFTwb0xCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068935353906446807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 951,
+          "impression_count": 279014,
+          "like_count": 18836,
+          "quote_count": 149,
+          "reply_count": 22,
+          "retweet_count": 4697
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/msFTwb0xCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 109,
+          "like_count": 4945,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T22:59:20.000Z",
+        "description": "",
+        "id": "1854659890838700032",
+        "name": "emo",
+        "pinned_tweet_id": "2064917424881770985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067484692178165760/8Uh3_2pn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5147,
+          "following_count": 1668,
+          "like_count": 39522,
+          "listed_count": 1,
+          "media_count": 1188,
+          "tweet_count": 8517
+        },
+        "url": "",
+        "username": "emolian0",
+        "verified": false
+      }
+    ]
+  }
+}

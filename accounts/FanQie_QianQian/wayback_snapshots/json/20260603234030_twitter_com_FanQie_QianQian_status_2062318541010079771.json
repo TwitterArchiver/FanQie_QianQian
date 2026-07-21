@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2062318539852361729"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2062318541010079771",
+    "created_at": "2026-06-03T23:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062318541010079771"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062318541010079771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你覺得幸福是什麼"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-06-04T23:40:30.000Z",
+        "id": "2062318539852361729",
+        "options": [
+          {
+            "label": "有花不完的錢？！",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "跟喜歡的人膩在一起！！！",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "可以吃到好多好吃的！！（但是不會變成肥豬？！",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2062318539852361729"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2062318541010079771",
+        "created_at": "2026-06-03T23:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062318541010079771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062318541010079771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你覺得幸福是什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 27,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

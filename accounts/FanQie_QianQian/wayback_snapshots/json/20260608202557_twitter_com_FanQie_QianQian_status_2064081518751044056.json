@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2063732531531538625",
+    "created_at": "2026-06-08T20:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064081518751044056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1978509405667921920",
+          "start": 0,
+          "username": "777sevvvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064081518751044056",
+    "in_reply_to_user_id": "1978509405667921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063732531531538625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@777sevvvv 好騷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2063732531531538625",
+        "created_at": "2026-06-08T20:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064081518751044056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1978509405667921920",
+              "start": 0,
+              "username": "777sevvvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064081518751044056",
+        "in_reply_to_user_id": "1978509405667921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063732531531538625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@777sevvvv 好騷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978509405667921920",
+        "conversation_id": "2063732531531538625",
+        "created_at": "2026-06-07T21:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063732531531538625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063732531531538625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 484,
+          "impression_count": 223588,
+          "like_count": 4986,
+          "quote_count": 25,
+          "reply_count": 249,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "做爱的时候叫哥哥比叫爸爸还色😋🥹男友比我小三岁 他和我说他在家里是最小的 一直都是他喊别人哥哥姐姐从没人喊他哥哥 我说“但我比你大 我不会叫的 你想着吧”然后一次做爱我说哥哥受不了了 他不可置信“什么？”姿势从半跪变成整个人压我身上 耳朵凑过来贴着我 我说“哥哥”然后我就听到他喘息声变得好重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 43,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T17:13:05.000Z",
+        "description": "性压抑，性狂暴，每天都在意淫自己男朋友。\n男的不准给我私信评论 除非是友好意味和没有性骚扰意味的 不然阳痿一辈子穷一辈子",
+        "id": "1978509405667921920",
+        "name": "777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049191983810560000/OXduF0in_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 47,
+          "like_count": 946,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 104
+        },
+        "username": "777sevvvv",
+        "verified": false
+      }
+    ]
+  }
+}

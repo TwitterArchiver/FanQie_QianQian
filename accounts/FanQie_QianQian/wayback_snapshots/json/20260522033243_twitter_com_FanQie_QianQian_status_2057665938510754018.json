@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2057665938510754018",
+    "created_at": "2026-05-22T03:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057665938510754018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FanQie_QianQia…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/FanQie_QianQian/status/2057435878474322319",
+          "start": 49,
+          "url": "https://t.co/Xerit2EHjo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057665938510754018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057435878474322319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我口袋裡還有粒ytmz（\n\nthc因為長得像可樂軟糖就沒被拿去（\n\n電子煙還有煙彈全被沒收了喵。 https://t.co/Xerit2EHjo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2057665938510754018",
+        "created_at": "2026-05-22T03:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057665938510754018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FanQie_QianQia…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/FanQie_QianQian/status/2057435878474322319",
+              "start": 49,
+              "url": "https://t.co/Xerit2EHjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057665938510754018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057435878474322319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我口袋裡還有粒ytmz（\n\nthc因為長得像可樂軟糖就沒被拿去（\n\n電子煙還有煙彈全被沒收了喵。 https://t.co/Xerit2EHjo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2057435878474322319",
+        "created_at": "2026-05-21T12:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057435878474322319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057435878474322319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2775,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他媽上課od 被送到醫院去了 \n\n誰懂一睜眼滿眼都是晶格的感覺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 21,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068719886499790848"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068718506468692008",
+    "created_at": "2026-06-21T15:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068719888945013086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611238295673114625",
+          "start": 0,
+          "username": "marinashitteru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2NwMZ25omd",
+          "end": 39,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2068719888945013086/photo/1",
+          "media_key": "3_2068719886499790848",
+          "start": 16,
+          "url": "https://t.co/2NwMZ25omd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068719888945013086",
+    "in_reply_to_user_id": "1611238295673114625",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068718506468692008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinashitteru https://t.co/2NwMZ25omd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 231,
+        "media_key": "3_2068719886499790848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWRxrabQAA70JO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 399,
+        "media_key": "3_2068718501376688128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWQhDbWAAAGyb6.jpg",
+        "width": 409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068719886499790848"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068718506468692008",
+        "created_at": "2026-06-21T15:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068719888945013086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611238295673114625",
+              "start": 0,
+              "username": "marinashitteru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2NwMZ25omd",
+              "end": 39,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2068719888945013086/photo/1",
+              "media_key": "3_2068719886499790848",
+              "start": 16,
+              "url": "https://t.co/2NwMZ25omd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068719888945013086",
+        "in_reply_to_user_id": "1611238295673114625",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068718506468692008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinashitteru https://t.co/2NwMZ25omd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068718501376688128"
+          ]
+        },
+        "author_id": "1611238295673114625",
+        "conversation_id": "2068718506468692008",
+        "created_at": "2026-06-21T15:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068718506468692008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v158zpIdgh",
+              "end": 28,
+              "expanded_url": "https://x.com/marinashitteru/status/2068718506468692008/photo/1",
+              "media_key": "3_2068718501376688128",
+              "start": 5,
+              "url": "https://t.co/v158zpIdgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068718506468692008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杂狗好丑 https://t.co/v158zpIdgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 92,
+          "like_count": 4596,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭 头像本体🦭🦭🦭🦭🦭🦭🦭🦭🦭🦭丨sh/od负能量  链接是匿名提问箱↓ 太久没发帖就是被制裁了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/8apxHZTQe3"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 285,
+          "like_count": 6897,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4394
+        },
+        "url": "https://t.co/8apxHZTQe3",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

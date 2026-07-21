@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2069086074341822554",
+    "created_at": "2026-06-22T15:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069086074341822554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fuhai_chan_/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/fuhai_chan_/status/2068944238486929576",
+          "start": 15,
+          "url": "https://t.co/NGcXesX5XH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069086074341822554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068944238486929576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操我也想這樣打誰想給我練手 https://t.co/NGcXesX5XH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068944225375518720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZdz62agAApcCk.jpg",
+        "width": 1660
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068944225371377664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZdz61bUAApPWH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2069086074341822554",
+        "created_at": "2026-06-22T15:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069086074341822554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuhai_chan_/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/fuhai_chan_/status/2068944238486929576",
+              "start": 15,
+              "url": "https://t.co/NGcXesX5XH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069086074341822554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068944238486929576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操我也想這樣打誰想給我練手 https://t.co/NGcXesX5XH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068944225375518720",
+            "3_2068944225371377664"
+          ]
+        },
+        "author_id": "1950226897893543936",
+        "conversation_id": "2068944238486929576",
+        "created_at": "2026-06-22T06:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068944238486929576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6IWiAD8CN",
+              "end": 27,
+              "expanded_url": "https://x.com/fuhai_chan_/status/2068944238486929576/photo/1",
+              "media_key": "3_2068944225375518720",
+              "start": 4,
+              "url": "https://t.co/F6IWiAD8CN"
+            },
+            {
+              "display_url": "pic.x.com/F6IWiAD8CN",
+              "end": 27,
+              "expanded_url": "https://x.com/fuhai_chan_/status/2068944238486929576/photo/1",
+              "media_key": "3_2068944225371377664",
+              "start": 4,
+              "url": "https://t.co/F6IWiAD8CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068944238486929576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 50955,
+          "like_count": 2536,
+          "quote_count": 29,
+          "reply_count": 9,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "^_^ https://t.co/F6IWiAD8CN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 112,
+          "like_count": 4917,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1906
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T16:08:36.000Z",
+        "description": "@fuhaichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "fuhaichan"
+              }
+            ]
+          }
+        },
+        "id": "1950226897893543936",
+        "name": "腐敗ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064761063477026816/6booPbsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 1,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "fuhai_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

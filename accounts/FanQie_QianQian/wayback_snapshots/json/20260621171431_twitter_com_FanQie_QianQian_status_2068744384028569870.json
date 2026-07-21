@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068739690065432954",
+    "created_at": "2026-06-21T17:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068744384028569870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068744384028569870",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068739690065432954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 抱抱rp醬。。揉揉泥 一定要好好的 要撐過去。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2068739680703852544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWjx2kbsAA-6vK.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1124,
+        "media_key": "3_2068739680703778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWjx2kakAALo7t.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068739690065432954",
+        "created_at": "2026-06-21T17:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068744384028569870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068744384028569870",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068739690065432954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 抱抱rp醬。。揉揉泥 一定要好好的 要撐過去。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068739680703852544",
+            "3_2068739680703778816"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2068739690065432954",
+        "created_at": "2026-06-21T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:38:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068735416036176281",
+          "2068739690065432954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPX8wVKbx3",
+              "end": 143,
+              "expanded_url": "https://x.com/_ropu/status/2068739690065432954/photo/1",
+              "media_key": "3_2068739680703852544",
+              "start": 120,
+              "url": "https://t.co/ZPX8wVKbx3"
+            },
+            {
+              "display_url": "pic.x.com/ZPX8wVKbx3",
+              "end": 143,
+              "expanded_url": "https://x.com/_ropu/status/2068739690065432954/photo/1",
+              "media_key": "3_2068739680703778816",
+              "start": 120,
+              "url": "https://t.co/ZPX8wVKbx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739690065432954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你看到了这篇推文 肯定你稍微阅读一下我写的东西\n\n嗯 我是小霜（霜奈）起的圈名还不错吧？\n\n问题就是…我是男的 但是我不服我是这个性别，所以我正在努力改变我的性别\n\n但是这个过程有好多好多折磨人的事情，包括家长，包括资金，包括各种东西\n\n○我现在已经不是很能撑得住了，时时刻刻的精神崩溃说不定在什么时候就会夺走我的生命让我自杀。\n\n我在这里真心希望有各种大佬，愿意帮我一把的，能让我实现这种心愿的人，能伸出一些援手…帮助我完成这种夙愿和执念…\n\n我不是很想就这样死掉 但是我的精神状态真的好差。 我好希望有人能帮助我 资金上帮助我…让我完成这个执念。成为一个真正的女孩子…\n\n打扰你们了 谢谢\n\n你可以向我的账号里面打点钱吗 我会好好生活以及保存到做手术…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你看到了这篇推文 肯定你稍微阅读一下我写的东西\n\n嗯 我是小霜（霜奈）起的圈名还不错吧？\n\n问题就是…我是男的 但是我不服我是这个性别，所以我正在努力改变我的性别\n\n但是这个过程有好多好多折磨人的事情，包括家长，包括资金，包括各种东西 https://t.co/ZPX8wVKbx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 93,
+          "like_count": 4608,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 直fo是感兴趣的意思 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2068562063065227762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068343508675821568/qmIZj7zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31876,
+          "following_count": 4685,
+          "like_count": 16669,
+          "listed_count": 35,
+          "media_count": 4937,
+          "tweet_count": 36138
+        },
+        "url": "",
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

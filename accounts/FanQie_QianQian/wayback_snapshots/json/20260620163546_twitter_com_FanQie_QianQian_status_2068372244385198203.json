@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068372236239790080"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068372244385198203",
+    "created_at": "2026-06-20T16:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068372244385198203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8MQvDUzAx",
+          "end": 40,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2068372244385198203/photo/1",
+          "media_key": "3_2068372236239790080",
+          "start": 17,
+          "url": "https://t.co/C8MQvDUzAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068372244385198203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的一生注定要被浪費在這些地方嗎 https://t.co/C8MQvDUzAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068372236239790080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRVlxRaYAAp-16.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068372236239790080"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068372244385198203",
+        "created_at": "2026-06-20T16:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068372244385198203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8MQvDUzAx",
+              "end": 40,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2068372244385198203/photo/1",
+              "media_key": "3_2068372236239790080",
+              "start": 17,
+              "url": "https://t.co/C8MQvDUzAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068372244385198203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的一生注定要被浪費在這些地方嗎 https://t.co/C8MQvDUzAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 74,
+          "like_count": 4163,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

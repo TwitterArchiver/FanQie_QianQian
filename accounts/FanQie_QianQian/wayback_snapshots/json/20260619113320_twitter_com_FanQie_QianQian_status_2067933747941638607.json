@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066018599182176256"
+      ],
+      "media_source_tweet_id": [
+        "2066018609181372479"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067933747941638607",
+    "created_at": "2026-06-19T11:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067933747941638607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063228399586541568",
+          "start": 3,
+          "username": "_FanQie11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1asmB7LlmB",
+          "end": 45,
+          "expanded_url": "https://x.com/_FanQie11_/status/2066018609181372479/photo/1",
+          "media_key": "3_2066018599182176256",
+          "start": 22,
+          "url": "https://t.co/1asmB7LlmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067933747941638607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066018609181372479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_FanQie11_: 號主長這樣 https://t.co/1asmB7LlmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066018599182176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKv4-D-akAA2NFZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066018599182176256"
+          ],
+          "media_source_tweet_id": [
+            "2066018609181372479"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2067933747941638607",
+        "created_at": "2026-06-19T11:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067933747941638607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063228399586541568",
+              "start": 3,
+              "username": "_FanQie11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1asmB7LlmB",
+              "end": 45,
+              "expanded_url": "https://x.com/_FanQie11_/status/2066018609181372479/photo/1",
+              "media_key": "3_2066018599182176256",
+              "start": 22,
+              "url": "https://t.co/1asmB7LlmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067933747941638607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066018609181372479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_FanQie11_: 號主長這樣 https://t.co/1asmB7LlmB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066018599182176256"
+          ]
+        },
+        "author_id": "2063228399586541568",
+        "conversation_id": "2066018609181372479",
+        "created_at": "2026-06-14T04:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066018609181372479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1asmB7LlmB",
+              "end": 29,
+              "expanded_url": "https://x.com/_FanQie11_/status/2066018609181372479/photo/1",
+              "media_key": "3_2066018599182176256",
+              "start": 6,
+              "url": "https://t.co/1asmB7LlmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066018609181372479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1064,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "號主長這樣 https://t.co/1asmB7LlmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 74,
+          "like_count": 3843,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1442
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "操蛋第11世\n寶寶@7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/GHBdAGFG8e"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "location": "看看你身後呢",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2066018609181372479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063229850941579264/ABMYWBep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 174,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/GHBdAGFG8e",
+        "username": "_FanQie11_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2073038355907084325",
+    "created_at": "2026-07-04T01:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073219129079943616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072258787155816448",
+          "start": 0,
+          "username": "xxs1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073219129079943616",
+    "in_reply_to_user_id": "2072258787155816448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073038355907084325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs1976 我靠我靠xml。窩打11體力就不太跟得上了草嗚嗚嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2073038355907084325",
+        "created_at": "2026-07-04T01:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073219129079943616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072258787155816448",
+              "start": 0,
+              "username": "xxs1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073219129079943616",
+        "in_reply_to_user_id": "2072258787155816448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073038355907084325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs1976 我靠我靠xml。窩打11體力就不太跟得上了草嗚嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072258787155816448",
+        "conversation_id": "2073038355907084325",
+        "created_at": "2026-07-03T13:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073038355907084325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxs1976/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xxs1976/status/2073038258322423997",
+              "start": 8,
+              "url": "https://t.co/HbsZ4aKGIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073038355907084325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073038258322423997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以鸟12了 https://t.co/HbsZ4aKGIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 113,
+          "like_count": 5253,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T10:00:13.000Z",
+        "description": "小学生已正式启用3.0。\nlgbtq全友好 就是别恶心我\n禁止把我的帖转到墙内\n好厚米@ANDEL0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ANDEL0426"
+              }
+            ]
+          }
+        },
+        "id": "2072258787155816448",
+        "name": "高性能小学生3.0",
+        "pinned_tweet_id": "2072262358043439427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072259319593394176/QYNajH1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 149,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "xxs1976",
+        "verified": false
+      }
+    ]
+  }
+}

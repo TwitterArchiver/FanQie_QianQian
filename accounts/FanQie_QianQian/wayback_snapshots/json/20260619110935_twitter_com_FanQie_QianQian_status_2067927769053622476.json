@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2067875226357268663",
+    "created_at": "2026-06-19T11:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067927769053622476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043048243760648192",
+          "start": 0,
+          "username": "Duanmu1Megumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067927769053622476",
+    "in_reply_to_user_id": "2043048243760648192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067875226357268663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duanmu1Megumi 貓貓我摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067875223341563904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKRjz8bAAARVoz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2067875226357268663",
+        "created_at": "2026-06-19T11:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067927769053622476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043048243760648192",
+              "start": 0,
+              "username": "Duanmu1Megumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067927769053622476",
+        "in_reply_to_user_id": "2043048243760648192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067875226357268663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duanmu1Megumi 貓貓我摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067875223341563904"
+          ]
+        },
+        "author_id": "2043048243760648192",
+        "conversation_id": "2067875226357268663",
+        "created_at": "2026-06-19T07:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067875226357268663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIMpF3Ekzr",
+              "end": 56,
+              "expanded_url": "https://x.com/Duanmu1Megumi/status/2067875226357268663/photo/1",
+              "media_key": "3_2067875223341563904",
+              "start": 33,
+              "url": "https://t.co/GIMpF3Ekzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067875226357268663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自己的猫（其三）\n我说养猫是对的，憨憨猫治愈人心\n＼（￣︶￣）／ https://t.co/GIMpF3Ekzr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 73,
+          "like_count": 3821,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:27:24.000Z",
+        "description": "|请看置顶|\n第一次使用推\n日常垢（？）\n（算是日常号，偶尔发癫）\n| 交友 |\n| 略带抑郁|\n| 欢迎私信 |\n| 政治❌|\n|因为有课，所以不定时上线|\n孩子们快来跟我交友",
+        "id": "2043048243760648192",
+        "name": "端木Megumi",
+        "pinned_tweet_id": "2066847326342447398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059933442616463360/gUG76Qas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 199,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "Duanmu1Megumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2066089620501393801",
+    "created_at": "2026-06-14T22:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066287278415282662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "xaoyou408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066287278415282662",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066089620501393801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaoyou408 萌死我餓餓餓啊啊啊啊媽媽媽媽我喜歡泥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6030,
+        "height": 720,
+        "media_key": "13_2066089598548381696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066089598548381696/img/Tx7rMMfOycq9oFMw.jpg",
+        "public_metrics": {
+          "view_count": 101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066089598548381696/vid/avc1/360x270/XHr-6uXzSlPBzWy_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066089598548381696/vid/avc1/480x360/1KStnGJXLJf5WA-f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066089598548381696/vid/avc1/960x720/LQfhAV_33QUYeJzN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066089598548381696/pl/MlAJLCK-FquVpk_C.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2066089620501393801",
+        "created_at": "2026-06-14T22:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066287278415282662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "xaoyou408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066287278415282662",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066089620501393801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaoyou408 萌死我餓餓餓啊啊啊啊媽媽媽媽我喜歡泥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066089598548381696"
+          ]
+        },
+        "author_id": "1557193023468883968",
+        "conversation_id": "2066089620501393801",
+        "created_at": "2026-06-14T09:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066089620501393801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXC2YYbtcU",
+              "end": 25,
+              "expanded_url": "https://x.com/xaoyou408/status/2066089620501393801/video/1",
+              "media_key": "13_2066089598548381696",
+              "start": 2,
+              "url": "https://t.co/tXC2YYbtcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066089620501393801",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 245,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💗 https://t.co/tXC2YYbtcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 66,
+          "like_count": 2528,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "请叫我小优 谢谢你们喜欢💗\n^^神经病/被害妄想症/畏惧死亡/人体改造/受虐倾向\n交友🚪52）zfb口令+名",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "役津栗优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 33,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 184
+        },
+        "username": "xaoyou408",
+        "verified": false
+      }
+    ]
+  }
+}

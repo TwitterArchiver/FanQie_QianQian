@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2061049468414505152",
+    "created_at": "2026-06-03T20:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062267520548229148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821871255571804160",
+          "start": 0,
+          "username": "M3sSnCHa0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062267520548229148",
+    "in_reply_to_user_id": "1821871255571804160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061049468414505152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M3sSnCHa0s 出來了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_2061049462353715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpRkOwaYAA87RW.jpg",
+        "width": 1417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2061049468414505152",
+        "created_at": "2026-06-03T20:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062267520548229148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821871255571804160",
+              "start": 0,
+              "username": "M3sSnCHa0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062267520548229148",
+        "in_reply_to_user_id": "1821871255571804160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061049468414505152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M3sSnCHa0s 出來了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061049462353715200"
+          ]
+        },
+        "author_id": "1821871255571804160",
+        "conversation_id": "2061049468414505152",
+        "created_at": "2026-05-31T11:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061049468414505152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3RESkfdcc",
+              "end": 27,
+              "expanded_url": "https://x.com/M3sSnCHa0s/status/2061049468414505152/photo/1",
+              "media_key": "3_2061049462353715200",
+              "start": 4,
+              "url": "https://t.co/b3RESkfdcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061049468414505152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔坤呀 https://t.co/b3RESkfdcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 27,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T11:29:04.000Z",
+        "description": "Smoking kills",
+        "id": "1821871255571804160",
+        "location": "In bed",
+        "name": "Carlisle",
+        "pinned_tweet_id": "1827986075090104784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821871461067526144/RdyO1TH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 97,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 170
+        },
+        "username": "M3sSnCHa0s",
+        "verified": false
+      }
+    ]
+  }
+}

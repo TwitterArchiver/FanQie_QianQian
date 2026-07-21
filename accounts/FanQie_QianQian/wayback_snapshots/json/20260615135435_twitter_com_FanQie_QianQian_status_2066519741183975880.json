@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054882046649204736"
+      ],
+      "media_source_tweet_id": [
+        "2054882205294583815"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2066519741183975880",
+    "created_at": "2026-06-15T13:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066519741183975880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047894021457211393",
+          "start": 3,
+          "username": "FanQie_QianQian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8KjYgbD5i",
+          "end": 66,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2054882205294583815/photo/1",
+          "media_key": "3_2054882046649204736",
+          "start": 43,
+          "url": "https://t.co/B8KjYgbD5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066519741183975880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054882205294583815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanQie_QianQian: 每天就這樣呆萌的看著這個世界 我好懵逼呀🤤 https://t.co/B8KjYgbD5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2054882046649204736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRoVY3agAAkNTP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054882046649204736"
+          ],
+          "media_source_tweet_id": [
+            "2054882205294583815"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2066519741183975880",
+        "created_at": "2026-06-15T13:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066519741183975880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047894021457211393",
+              "start": 3,
+              "username": "FanQie_QianQian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8KjYgbD5i",
+              "end": 66,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2054882205294583815/photo/1",
+              "media_key": "3_2054882046649204736",
+              "start": 43,
+              "url": "https://t.co/B8KjYgbD5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066519741183975880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054882205294583815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanQie_QianQian: 每天就這樣呆萌的看著這個世界 我好懵逼呀🤤 https://t.co/B8KjYgbD5i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054882046649204736"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2054882205294583815",
+        "created_at": "2026-05-14T11:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054882205294583815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8KjYgbD5i",
+              "end": 45,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2054882205294583815/photo/1",
+              "media_key": "3_2054882046649204736",
+              "start": 22,
+              "url": "https://t.co/B8KjYgbD5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054882205294583815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1969,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天就這樣呆萌的看著這個世界 我好懵逼呀🤤 https://t.co/B8KjYgbD5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 64,
+          "like_count": 2739,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

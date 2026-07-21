@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2073144255833661664",
+    "created_at": "2026-07-03T20:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073144255833661664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831671299057623040",
+          "start": 3,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073144255833661664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072704571080839382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuai377: 门槛🚪（+v)\n\n88 偶尔爆照和分享生活\n\n288 包括以上加了之后详谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2073144255833661664",
+        "created_at": "2026-07-03T20:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073144255833661664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831671299057623040",
+              "start": 3,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073144255833661664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072704571080839382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @afuai377: 门槛🚪（+v)\n\n88 偶尔爆照和分享生活\n\n288 包括以上加了之后详谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831671299057623040",
+        "conversation_id": "2072704571080839382",
+        "created_at": "2026-07-02T15:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072704571080839382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072704571080839382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1798,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "门槛🚪（+v)\n\n88 偶尔爆照和分享生活\n\n288 包括以上加了之后详谈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 107,
+          "like_count": 5083,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2026
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "殺不死的roAch ✮同成分互fo請私信 通知常被吞 @fuaiy_37 防炸號互關來 @kana40427 かれし",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "fuaiy_37"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "kana40427"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "location": "地獄",
+        "name": "ふ愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065055298252111872/lzcS5Ak3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8630,
+          "following_count": 229,
+          "like_count": 5539,
+          "listed_count": 8,
+          "media_count": 146,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "afuai377",
+        "verified": false
+      }
+    ]
+  }
+}

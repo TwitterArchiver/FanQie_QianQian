@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2068492555315240972",
+    "created_at": "2026-06-21T04:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068559254370611286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422249668960919592",
+          "start": 0,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068559254370611286",
+    "in_reply_to_user_id": "1422249668960919592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068492555315240972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesaucep9968 窩趣（）看上去好像你的孩子（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068492532804435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTC_85bQAA20lK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068492532812791808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTC_87awAACZJM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068492532829630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTC_8_bsAA7NKZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 784,
+        "media_key": "3_2068492533647511552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTDAACbkAAS3x8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068492555315240972",
+        "created_at": "2026-06-21T04:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068559254370611286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422249668960919592",
+              "start": 0,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068559254370611286",
+        "in_reply_to_user_id": "1422249668960919592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068492555315240972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesaucep9968 窩趣（）看上去好像你的孩子（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068492532804435968",
+            "3_2068492532812791808",
+            "3_2068492532829630464",
+            "3_2068492533647511552"
+          ]
+        },
+        "author_id": "1422249668960919592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068492555315240972",
+        "created_at": "2026-06-21T00:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068492555315240972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532804435968",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532812791808",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532829630464",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492533647511552",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068492555315240972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2276,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个做完之后拍了几秒就扔了，我竟有点舍不得，毕竟也是我的一个孩子（看起来像橡皮泥捏的，其实是铁丝+锡纸做的 https://t.co/DDa7qLa6Un"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 73,
+          "like_count": 4391,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1591
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Feline Rehab,ER",
+        "name": "紀念品",
+        "pinned_tweet_id": "2031929884763955629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067224687604834304/11QVWK_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 3131,
+          "like_count": 51484,
+          "listed_count": 5,
+          "media_count": 349,
+          "tweet_count": 21895
+        },
+        "url": "",
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2062873435169243487",
+    "created_at": "2026-06-05T12:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062873435169243487"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062873435169243487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對象好黏人好可愛好喜歡他怎麼辦。可惡啊 我徹底對你上癮了。\n記得被關進觀察病房裏的那一個禮拜\n醫生不讓我用手機 完全沒辦法跟他打電話發消息什麼的 好難受好難受 你的戒斷反應比起任何藥物的都無法忍受 我知道 一輩子、永遠在一起什麼的 太科幻太不現實了喵 我說 我想跟他在一起很久很久很久很久。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2062873435169243487",
+        "created_at": "2026-06-05T12:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062873435169243487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062873435169243487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對象好黏人好可愛好喜歡他怎麼辦。可惡啊 我徹底對你上癮了。\n記得被關進觀察病房裏的那一個禮拜\n醫生不讓我用手機 完全沒辦法跟他打電話發消息什麼的 好難受好難受 你的戒斷反應比起任何藥物的都無法忍受 我知道 一輩子、永遠在一起什麼的 太科幻太不現實了喵 我說 我想跟他在一起很久很久很久很久。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 35,
+          "like_count": 1118,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

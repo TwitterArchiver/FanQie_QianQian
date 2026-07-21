@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2072611491417899386",
+    "created_at": "2026-07-03T21:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073162259417972977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971941381280354305",
+          "start": 0,
+          "username": "AndyXu112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073162259417972977",
+    "in_reply_to_user_id": "1971941381280354305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072611491417899386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndyXu112 好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072611478935621632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNlKK9a0AAhOYa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2072611491417899386",
+        "created_at": "2026-07-03T21:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073162259417972977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971941381280354305",
+              "start": 0,
+              "username": "AndyXu112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073162259417972977",
+        "in_reply_to_user_id": "1971941381280354305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072611491417899386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndyXu112 好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072611478935621632"
+          ]
+        },
+        "author_id": "1971941381280354305",
+        "conversation_id": "2072611491417899386",
+        "created_at": "2026-07-02T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072611491417899386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXiFX13u6S",
+              "end": 28,
+              "expanded_url": "https://x.com/AndyXu112/status/2072611491417899386/photo/1",
+              "media_key": "3_2072611478935621632",
+              "start": 5,
+              "url": "https://t.co/NXiFX13u6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072611491417899386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2143,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "掐你好吗 https://t.co/NXiFX13u6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 111,
+          "like_count": 5213,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T14:14:15.000Z",
+        "description": "05 数学 enfj  1i switch努力健身成为擦边男中... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信看到都会回 回关看成分\n别找我看🐮我不发。\n另一个我@Martini31003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Martini31003"
+              }
+            ]
+          }
+        },
+        "id": "1971941381280354305",
+        "location": "🚪52好友位/88/188",
+        "name": "Martiniiiii",
+        "pinned_tweet_id": "2057159801390670236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051988248365514752/xmwFIcBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 369,
+          "like_count": 3134,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "AndyXu112",
+        "verified": false
+      }
+    ]
+  }
+}

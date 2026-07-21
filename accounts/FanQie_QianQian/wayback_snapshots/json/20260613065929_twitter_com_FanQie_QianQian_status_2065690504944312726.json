@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2065408524214206613",
+    "created_at": "2026-06-13T06:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065690504944312726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "xaoyou408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065690504944312726",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065408524214206613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaoyou408 媽媽媽媽媽媽我喜歡你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6208,
+        "height": 720,
+        "media_key": "13_2065408497416818688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065408497416818688/img/h5JEDqFhHoisJQYy.jpg",
+        "public_metrics": {
+          "view_count": 1349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065408497416818688/vid/avc1/360x270/dfuy6LrvXBT_fcLH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065408497416818688/vid/avc1/480x360/nYiyq8DORLz7ObEJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065408497416818688/vid/avc1/960x720/WCEgtCS5CZ_y9eM5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065408497416818688/pl/vXAQAuhBtG9b_EZg.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2065408524214206613",
+        "created_at": "2026-06-13T06:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065690504944312726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "xaoyou408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065690504944312726",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065408524214206613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaoyou408 媽媽媽媽媽媽我喜歡你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065408497416818688"
+          ]
+        },
+        "author_id": "1557193023468883968",
+        "conversation_id": "2065408524214206613",
+        "created_at": "2026-06-12T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065408524214206613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxLsRALPgn",
+              "end": 28,
+              "expanded_url": "https://x.com/xaoyou408/status/2065408524214206613/video/1",
+              "media_key": "13_2065408497416818688",
+              "start": 5,
+              "url": "https://t.co/pxLsRALPgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065408524214206613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4197,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想吃吗？ https://t.co/pxLsRALPgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 59,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "请叫我小优 谢谢你们喜欢💗\n^^神经病/被害妄想症/畏惧死亡/人体改造/受虐倾向\n交友🚪52）zfb口令",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "役津栗优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 33,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 179
+        },
+        "username": "xaoyou408",
+        "verified": false
+      }
+    ]
+  }
+}
