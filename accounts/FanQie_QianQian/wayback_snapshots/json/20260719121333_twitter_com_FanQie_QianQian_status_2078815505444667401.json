@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2078815505444667401",
+    "created_at": "2026-07-19T12:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078815505444667401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078815505444667401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有过性行为：✅️\n有过男朋友：✅️\n有过女朋友：✅\n嗑过药：✅️\n喝过酒：✅\n挂过科： ✅\n去过夜店：❌ \n抽过烟/用过电子烟：✅️\n吻过别人：✅️\n被留堂：✅\n被课堂赶出去：❌️\n考试作弊：✅\n偷偷溜出家门：✅️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2078815505444667401",
+        "created_at": "2026-07-19T12:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078815505444667401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078815505444667401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅️\n有过男朋友：✅️\n有过女朋友：✅\n嗑过药：✅️\n喝过酒：✅\n挂过科： ✅\n去过夜店：❌ \n抽过烟/用过电子烟：✅️\n吻过别人：✅️\n被留堂：✅\n被课堂赶出去：❌️\n考试作弊：✅\n偷偷溜出家门：✅️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n寶寶 @7q468438x8964\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 102,
+          "like_count": 5343,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

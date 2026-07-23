@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2075750486926598264",
+    "created_at": "2026-07-20T09:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079141201136267692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975850232094371840",
+          "start": 0,
+          "username": "zhizi160216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079141201136267692",
+    "in_reply_to_user_id": "1975850232094371840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075750486926598264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizi160216 窩趣我喜歡這個粉粉的挑染！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075750462129934336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6MDCmbkAAyqEC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2075750486926598264",
+        "created_at": "2026-07-20T09:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079141201136267692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975850232094371840",
+              "start": 0,
+              "username": "zhizi160216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079141201136267692",
+        "in_reply_to_user_id": "1975850232094371840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075750486926598264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizi160216 窩趣我喜歡這個粉粉的挑染！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075750462129934336"
+          ]
+        },
+        "author_id": "1975850232094371840",
+        "conversation_id": "2075750486926598264",
+        "created_at": "2026-07-11T01:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075750486926598264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUm0wPSARh",
+              "end": 33,
+              "expanded_url": "https://x.com/zhizi160216/status/2075750486926598264/photo/1",
+              "media_key": "3_2075750462129934336",
+              "start": 10,
+              "url": "https://t.co/iUm0wPSARh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075750486926598264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一张25年的照片 https://t.co/iUm0wPSARh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 103,
+          "like_count": 5381,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T09:07:43.000Z",
+        "description": "",
+        "id": "1975850232094371840",
+        "location": "🚪88 纯绿",
+        "name": "沫沫",
+        "pinned_tweet_id": "2065855514979037289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630127638654976/q6sFuFBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 86,
+          "like_count": 843,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "zhizi160216",
+        "verified": false
+      }
+    ]
+  }
+}

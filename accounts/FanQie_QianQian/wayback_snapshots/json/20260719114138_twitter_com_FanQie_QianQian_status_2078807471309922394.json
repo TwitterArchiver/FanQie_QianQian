@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2078675129161400414",
+    "created_at": "2026-07-19T11:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078807471309922394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047631836864483328",
+          "start": 0,
+          "username": "TuT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078807471309922394",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078806998750290247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_1Apple 啊啊啊啊啊啊啊太好了嗚嗚嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2078675129161400414",
+        "created_at": "2026-07-19T11:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078807471309922394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078807471309922394",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078806998750290247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 啊啊啊啊啊啊啊太好了嗚嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2078675129161400414",
+        "created_at": "2026-07-19T11:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078806998750290247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078806998750290247",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078675129161400414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian ！！！！！复活了！？？？！！恭迎啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n寶寶 @7q468438x8964\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 102,
+          "like_count": 5337,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 61,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

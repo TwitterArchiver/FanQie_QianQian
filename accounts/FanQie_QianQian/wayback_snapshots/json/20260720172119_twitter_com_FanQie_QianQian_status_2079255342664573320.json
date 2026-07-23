@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2079255342664573320",
+    "created_at": "2026-07-20T17:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079255342664573320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2079241406711992394",
+          "start": 37,
+          "url": "https://t.co/PgQNnv0XSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079255342664573320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079241406711992394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操今天居然是0721嗎。\nok收到教官！戒斷中止，以嚴肅開始0721。 https://t.co/PgQNnv0XSD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2079255342664573320",
+        "created_at": "2026-07-20T17:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079255342664573320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2079241406711992394",
+              "start": 37,
+              "url": "https://t.co/PgQNnv0XSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079255342664573320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079241406711992394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操今天居然是0721嗎。\nok收到教官！戒斷中止，以嚴肅開始0721。 https://t.co/PgQNnv0XSD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2079241406711992394",
+        "created_at": "2026-07-20T16:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079241406711992394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079241406711992394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是 0721。\n命令你们所有人停下手中事情，私信发我你 0721 的视频。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 102,
+          "like_count": 5455,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079004361674612736/h7YYpveH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 697,
+          "like_count": 22159,
+          "listed_count": 5,
+          "media_count": 996,
+          "tweet_count": 14501
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

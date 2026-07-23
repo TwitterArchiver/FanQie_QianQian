@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2078872069010231397",
+    "created_at": "2026-07-20T09:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079137483451982287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079137483451982287",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078872069010231397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra 🐈⁉️"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11021,
+        "height": 1080,
+        "media_key": "13_2078870799012773888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078870799012773888/img/EekU6zGZ4wQNJ5m_.jpg",
+        "public_metrics": {
+          "view_count": 312
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078870799012773888/pl/qehSIKpg9-Vv8Dbm.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078870799012773888/vid/avc1/480x270/g_kUzyc66_zFw2CP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078870799012773888/vid/avc1/1920x1080/rrd2XJyduocUfwcT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078870799012773888/vid/avc1/640x360/_rVuvUi8i7XngPID.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078870799012773888/vid/avc1/1280x720/BcjtYhJvQJJlnAcl.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2078872069010231397",
+        "created_at": "2026-07-20T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079137483451982287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079137483451982287",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078872069010231397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 🐈⁉️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078870799012773888"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2078872069010231397",
+        "created_at": "2026-07-19T15:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:53:37.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078870888083034486",
+          "2078871986114048103",
+          "2078872069010231397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AgEY9Ogsq",
+              "end": 50,
+              "expanded_url": "https://x.com/10Lystra/status/2078872069010231397/video/1",
+              "media_key": "13_2078870799012773888",
+              "start": 27,
+              "url": "https://t.co/2AgEY9Ogsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078872069010231397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 693,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，来看我的猫\n我传的1080p别看那个240p（ https://t.co/2AgEY9Ogsq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 103,
+          "like_count": 5375,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1079,
+          "like_count": 2725,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 9521
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      }
+    ]
+  }
+}
