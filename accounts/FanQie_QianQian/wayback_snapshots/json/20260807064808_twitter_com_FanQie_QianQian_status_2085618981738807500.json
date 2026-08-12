@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066524492046987264",
+        "3_2066524492055326720",
+        "3_2066524492156080128",
+        "3_2066524492063752192"
+      ],
+      "media_source_tweet_id": [
+        "2066524499240235409",
+        "2066524499240235409",
+        "2066524499240235409",
+        "2066524499240235409"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085618981738807500",
+    "created_at": "2026-08-07T06:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085618981738807500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624337198765178881",
+          "start": 3,
+          "username": "niconekkod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492046987264",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        },
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492055326720",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        },
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492156080128",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        },
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492063752192",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085618981738807500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066524499240235409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niconekkod: 自介條。 https://t.co/KJQrSukJ6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066524492046987264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE5wa8AAEsyS.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066524492055326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE5yaMAAgGoE.jpg",
+        "width": 1152
+      },
+      {
+        "height": 382,
+        "media_key": "3_2066524492156080128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE6KbkAABo4C.jpg",
+        "width": 382
+      },
+      {
+        "height": 815,
+        "media_key": "3_2066524492063752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE50awAAJDsz.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066524492046987264",
+            "3_2066524492055326720",
+            "3_2066524492156080128",
+            "3_2066524492063752192"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066524499240235409",
+        "created_at": "2026-06-15T14:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066524499240235409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492046987264",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492055326720",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492156080128",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492063752192",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066524499240235409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 59328,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自介條。 https://t.co/KJQrSukJ6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066524492046987264",
+            "3_2066524492055326720",
+            "3_2066524492156080128",
+            "3_2066524492063752192"
+          ],
+          "media_source_tweet_id": [
+            "2066524499240235409",
+            "2066524499240235409",
+            "2066524499240235409",
+            "2066524499240235409"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085618981738807500",
+        "created_at": "2026-08-07T06:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085618981738807500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624337198765178881",
+              "start": 3,
+              "username": "niconekkod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492046987264",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492055326720",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492156080128",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492063752192",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085618981738807500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066524499240235409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niconekkod: 自介條。 https://t.co/KJQrSukJ6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 81,
+          "like_count": 5934,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "性别是:女孩子！| 家暴党 | 年龄党 | 无证含糖 | 出厂日期:2011.10.29 | hrt🍥:2026.6.4 |\noder | AFOedOIer | 🈹🔪🩸 | 💊💉 | 中度抑郁 | 坐标重庆 | 欢迎互 fo | 🩷 @FanQie_QianQian ✝️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx4YaI"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "niconekko🍥🏳️‍⚧️💊💉🩸",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085095403876409344/v1qXEMPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 134,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/Sxu7tx4YaI",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

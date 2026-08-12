@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2080695895709110326",
+    "created_at": "2026-07-25T02:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080837475166241021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045895393012322304",
+          "start": 0,
+          "username": "zameru619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080837475166241021",
+    "in_reply_to_user_id": "2045895393012322304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080695895709110326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zameru619 你嗑大了 我看不懂。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080695846900006917",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAd2UgbAAUFJxU.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2080695846900006915",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAd2UgbAAMPKkr.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2080695846908428288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAd2UibgAAoL0p.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2080695895709110326",
+        "created_at": "2026-07-25T02:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080837475166241021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045895393012322304",
+              "start": 0,
+              "username": "zameru619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080837475166241021",
+        "in_reply_to_user_id": "2045895393012322304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080695895709110326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zameru619 你嗑大了 我看不懂。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080695846900006917",
+            "3_2080695846900006915",
+            "3_2080695846908428288"
+          ]
+        },
+        "author_id": "2045895393012322304",
+        "conversation_id": "2080695895709110326",
+        "created_at": "2026-07-24T16:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080695895709110326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aYchnpr2K",
+              "end": 138,
+              "expanded_url": "https://x.com/zameru619/status/2080695895709110326/photo/1",
+              "media_key": "3_2080695846900006917",
+              "start": 115,
+              "url": "https://t.co/8aYchnpr2K"
+            },
+            {
+              "display_url": "pic.x.com/8aYchnpr2K",
+              "end": 138,
+              "expanded_url": "https://x.com/zameru619/status/2080695895709110326/photo/1",
+              "media_key": "3_2080695846900006915",
+              "start": 115,
+              "url": "https://t.co/8aYchnpr2K"
+            },
+            {
+              "display_url": "pic.x.com/8aYchnpr2K",
+              "end": 138,
+              "expanded_url": "https://x.com/zameru619/status/2080695895709110326/photo/1",
+              "media_key": "3_2080695846908428288",
+              "start": 115,
+              "url": "https://t.co/8aYchnpr2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080695895709110326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小蒼開業了喵～～\n純綠800一小時\n半綠1000一小時\n純黃2000一小時\n活動到29號結束\n回到香港就再也見不到我啦～\n阿喵本來任何關於爸爸活有關的\n所以要珍惜啊米！\n目標武綠我會好服務主人！\n不接口惜唷\n甜舔任何惜唷惜唷惜唷 https://t.co/8aYchnpr2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 106,
+          "like_count": 5594,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T16:01:26.000Z",
+        "description": "媽咪 @1nfinityHeaven",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "1nfinityHeaven"
+              }
+            ]
+          }
+        },
+        "id": "2045895393012322304",
+        "name": "QWERTYUIOP",
+        "pinned_tweet_id": "2075510696817926157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057539570326188032/AGea5hRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 181,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "zameru619",
+        "verified": false
+      }
+    ]
+  }
+}

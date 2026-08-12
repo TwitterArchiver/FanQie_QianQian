@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2085281187443204174",
+    "created_at": "2026-08-06T08:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085281187443204174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xjiajiaouo/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Xjiajiaouo/status/2085280228524638396",
+          "start": 31,
+          "url": "https://t.co/RDc0lgXCnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085281187443204174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085280228524638396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "精致男孩vlog～hello米娜桑，早上醒来先选一个杯杯呀～ https://t.co/RDc0lgXCnc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2085281187443204174",
+        "created_at": "2026-08-06T08:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085281187443204174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xjiajiaouo/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Xjiajiaouo/status/2085280228524638396",
+              "start": 31,
+              "url": "https://t.co/RDc0lgXCnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085281187443204174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085280228524638396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精致男孩vlog～hello米娜桑，早上醒来先选一个杯杯呀～ https://t.co/RDc0lgXCnc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2085280228524638396",
+        "created_at": "2026-08-06T08:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085280228524638396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085280228524638396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公，为什么连杯子都，不止我一个呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/5OZI3nQDt4"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 78,
+          "like_count": 5881,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/5OZI3nQDt4",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "我是你爸\n\nhttps://t.co/wYgtJMYd9m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.com/55BEWR",
+                "end": 29,
+                "expanded_url": "https://qntwx.com/55BEWR",
+                "start": 6,
+                "url": "https://t.co/wYgtJMYd9m"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2067493808552702155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 521,
+          "like_count": 19417,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 4677
+        },
+        "url": "",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

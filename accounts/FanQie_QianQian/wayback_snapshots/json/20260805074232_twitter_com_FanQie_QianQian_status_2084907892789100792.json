@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2084894607213814056",
+    "created_at": "2026-08-05T07:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084907892789100792"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084907892789100792",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084894607213814056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084894607213814056",
+        "created_at": "2026-08-05T07:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084907892789100792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084907892789100792",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084894607213814056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084894607213814056",
+        "created_at": "2026-08-05T06:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084894607213814056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084894607213814056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡大覺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "",
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "那个谁",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084895008122179584/Hp-09dbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 85,
+          "like_count": 5829,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

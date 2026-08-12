@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2081023059755168152",
+    "created_at": "2026-07-25T19:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081096406341922917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431288671844536321",
+          "start": 0,
+          "username": "alvinabdjjsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081096406341922917",
+    "in_reply_to_user_id": "1431288671844536321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081080538430148855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alvinabdjjsa 來吃來吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2081023059755168152",
+        "created_at": "2026-07-25T19:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081096406341922917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431288671844536321",
+              "start": 0,
+              "username": "alvinabdjjsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081096406341922917",
+        "in_reply_to_user_id": "1431288671844536321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081080538430148855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alvinabdjjsa 來吃來吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431288671844536321",
+        "conversation_id": "2081023059755168152",
+        "created_at": "2026-07-25T18:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081080538430148855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081080538430148855",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081023059755168152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 喔吼 我吃吃吃吃吃吃吃吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 106,
+          "like_count": 5646,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T16:13:24.000Z",
+        "description": "最愛小貓",
+        "id": "1431288671844536321",
+        "location": "Hong Kong",
+        "name": "sadcato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584186471636144128/_h-5xTPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 381,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "alvinabdjjsa",
+        "verified": false
+      }
+    ]
+  }
+}

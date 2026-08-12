@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080760761950027776",
+        "3_2080760770389000192"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2080760777750036655",
+    "created_at": "2026-07-24T21:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T22:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080760777750036655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0pdQpOBdo7",
+          "end": 71,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2080760777750036655/photo/1",
+          "media_key": "3_2080760761950027776",
+          "start": 48,
+          "url": "https://t.co/0pdQpOBdo7"
+        },
+        {
+          "display_url": "pic.x.com/0pdQpOBdo7",
+          "end": 71,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2080760777750036655/photo/1",
+          "media_key": "3_2080760770389000192",
+          "start": 48,
+          "url": "https://t.co/0pdQpOBdo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080760777750036655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有沒有誰知道nini的新號啊啊啊 為什麼會被封掉qwq 氣死我了氣死我了 求轉帖好嗎謝謝你們。 https://t.co/0pdQpOBdo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2080760761950027776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBY436aQAAHE4A.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2080760770389000192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBY5XWawAAm0ko.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080760761950027776",
+            "3_2080760770389000192"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2080760777750036655",
+        "created_at": "2026-07-24T21:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080760777750036655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pdQpOBdo7",
+              "end": 71,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2080760777750036655/photo/1",
+              "media_key": "3_2080760761950027776",
+              "start": 48,
+              "url": "https://t.co/0pdQpOBdo7"
+            },
+            {
+              "display_url": "pic.x.com/0pdQpOBdo7",
+              "end": 71,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2080760777750036655/photo/1",
+              "media_key": "3_2080760770389000192",
+              "start": 48,
+              "url": "https://t.co/0pdQpOBdo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080760777750036655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有誰知道nini的新號啊啊啊 為什麼會被封掉qwq 氣死我了氣死我了 求轉帖好嗎謝謝你們。 https://t.co/0pdQpOBdo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 104,
+          "like_count": 5578,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

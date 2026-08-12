@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2084547950601216035",
+    "created_at": "2026-08-05T11:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084965448005943398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084965448005943398",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084547950601216035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 紫毛紫毛毛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11200,
+        "height": 1280,
+        "media_key": "13_2084547887019835392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084547887019835392/img/i3dTO2R1t7jY8_Fv.jpg",
+        "public_metrics": {
+          "view_count": 361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084547887019835392/vid/avc1/320x568/1FfNAuIkSJL2IXcV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084547887019835392/vid/avc1/480x852/Pka2iXmqECG8FEs-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084547887019835392/vid/avc1/720x1280/aSd7lKJ37mNpuPZp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084547887019835392/pl/R7ynp3-whPQAb71A.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084547950601216035",
+        "created_at": "2026-08-05T11:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084965448005943398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084965448005943398",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084547950601216035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 紫毛紫毛毛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084547887019835392"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2084547950601216035",
+        "created_at": "2026-08-04T07:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084547950601216035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIisRqC07i",
+              "end": 26,
+              "expanded_url": "https://x.com/11andpr89648964/status/2084547950601216035/video/1",
+              "media_key": "13_2084547887019835392",
+              "start": 3,
+              "url": "https://t.co/VIisRqC07i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084547950601216035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1273,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊 https://t.co/VIisRqC07i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/5OZI3nQDt4"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 70,
+          "like_count": 5850,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2285
+        },
+        "url": "https://t.co/5OZI3nQDt4",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1007,
+          "like_count": 192,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2185
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

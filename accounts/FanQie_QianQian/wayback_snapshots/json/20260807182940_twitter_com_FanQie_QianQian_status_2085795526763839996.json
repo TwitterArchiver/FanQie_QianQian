@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085795494174097409"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085795526763839996",
+    "created_at": "2026-08-07T18:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085795526763839996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dfq5hzfGj1",
+          "end": 90,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2085795526763839996/photo/1",
+          "media_key": "3_2085795494174097409",
+          "start": 67,
+          "url": "https://t.co/Dfq5hzfGj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085795526763839996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭😭😭😭😭谢谢谢谢谢猫猫的赞赏呀呜呜呜🤤🤤🤤🥺🥺💞💞💞已经严肃购入大辣条……咪要天天开心健健康康哦喵！🤤🤤💞🥺💞🤤💞😭🥺🍦🍦🍦🍦🍦🍦 https://t.co/Dfq5hzfGj1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2085795494174097409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI783BbgAEnKu8.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085795494174097409"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085795526763839996",
+        "created_at": "2026-08-07T18:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085795526763839996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dfq5hzfGj1",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2085795526763839996/photo/1",
+              "media_key": "3_2085795494174097409",
+              "start": 67,
+              "url": "https://t.co/Dfq5hzfGj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085795526763839996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭😭😭谢谢谢谢谢猫猫的赞赏呀呜呜呜🤤🤤🤤🥺🥺💞💞💞已经严肃购入大辣条……咪要天天开心健健康康哦喵！🤤🤤💞🥺💞🤤💞😭🥺🍦🍦🍦🍦🍦🍦 https://t.co/Dfq5hzfGj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nhrt：25-06-23\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 84,
+          "like_count": 6015,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

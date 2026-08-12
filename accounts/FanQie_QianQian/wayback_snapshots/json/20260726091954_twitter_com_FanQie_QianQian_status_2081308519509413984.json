@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2081308226218262767",
+    "created_at": "2026-07-26T09:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081308519509413984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922574083348414464",
+          "start": 0,
+          "username": "7q468438x8964"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/_tomato._.fanq…",
+          "end": 63,
+          "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2073863696456306688/JkvSAyeZ?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2073863696456306688/JkvSAyeZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "@_tomato._.fanqie_: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/_tomato._.fanqie_2",
+          "url": "https://t.co/xvR9TG9o37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081308519509413984",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081308226218262767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7q468438x8964 什麼都可以說哦（性幻想還有想約我線下的還是不要了\nhttps://t.co/xvR9TG9o37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2081308205007986688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJKyQObYAAQeS9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2081308215732772864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJKy4LaoAAQyMQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2081308226218262767",
+        "created_at": "2026-07-26T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081308519509413984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q468438x8964"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/_tomato._.fanq…",
+              "end": 63,
+              "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2073863696456306688/JkvSAyeZ?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2073863696456306688/JkvSAyeZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "@_tomato._.fanqie_: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/_tomato._.fanqie_2",
+              "url": "https://t.co/xvR9TG9o37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081308519509413984",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081308226218262767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q468438x8964 什麼都可以說哦（性幻想還有想約我線下的還是不要了\nhttps://t.co/xvR9TG9o37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081308205007986688",
+            "3_2081308215732772864"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2081308226218262767",
+        "created_at": "2026-07-26T09:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081308226218262767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1922574083348414464",
+              "start": 22,
+              "username": "7q468438x8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gizMOyC32g",
+              "end": 64,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2081308226218262767/photo/1",
+              "media_key": "3_2081308205007986688",
+              "start": 41,
+              "url": "https://t.co/gizMOyC32g"
+            },
+            {
+              "display_url": "pic.x.com/gizMOyC32g",
+              "end": 64,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2081308226218262767/photo/1",
+              "media_key": "3_2081308215732772864",
+              "start": 41,
+              "url": "https://t.co/gizMOyC32g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081308226218262767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看又唱（謝謝喜歡\n67\n沒有\n67\n67\n@7q468438x8964 \n67 https://t.co/gizMOyC32g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 106,
+          "like_count": 5680,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_FanQie11_"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 3424,
+          "like_count": 21761,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5560
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      }
+    ]
+  }
+}

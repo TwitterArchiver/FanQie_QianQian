@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2084932761367064724",
+    "created_at": "2026-08-06T17:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085411177807696095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057835400790462464",
+          "start": 0,
+          "username": "kimika37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085411177807696095",
+    "in_reply_to_user_id": "2057835400790462464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084932761367064724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimika37 发点墙内都可以发的文案炸了20个🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084932761367064724",
+        "created_at": "2026-08-06T17:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085411177807696095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057835400790462464",
+              "start": 0,
+              "username": "kimika37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085411177807696095",
+        "in_reply_to_user_id": "2057835400790462464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084932761367064724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimika37 发点墙内都可以发的文案炸了20个🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057835400790462464",
+        "conversation_id": "2084932761367064724",
+        "created_at": "2026-08-05T09:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084932761367064724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084932761367064724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5236,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我原来以为是发💊🩸内容才会炸，直到我朋友上面什么都没发就炸了，有点迷茫了，如果推特还不如墙内自由，那还有玩下去的必要吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 79,
+          "like_count": 5922,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "🔪血💊我很温良，欢迎找我聊天\n宝宝@xiaotunovo0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "xiaotunovo0"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "location": "天堂",
+        "name": "Curse2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085020979290640384/FjX4cCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 172,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false
+      }
+    ]
+  }
+}

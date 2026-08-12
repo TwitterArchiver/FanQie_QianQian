@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2085354503034085550",
+    "created_at": "2026-08-07T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085706032286982559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041878190747217921",
+          "start": 0,
+          "username": "xxwxxdxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085706032286982559",
+    "in_reply_to_user_id": "2041878190747217921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085696474709659851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxwxxdxxx 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2085354503034085550",
+        "created_at": "2026-08-07T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085706032286982559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041878190747217921",
+              "start": 0,
+              "username": "xxwxxdxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085706032286982559",
+        "in_reply_to_user_id": "2041878190747217921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085696474709659851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxwxxdxxx 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041878190747217921",
+        "conversation_id": "2085354503034085550",
+        "created_at": "2026-08-07T11:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085696474709659851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085696474709659851",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085354503034085550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 千万小心！！发检能追查数月，不要跟身边的任何人说这件事哪怕是朋友也不可以😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nhrt：25-06-23\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 83,
+          "like_count": 5976,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:58:17.000Z",
+        "description": "111",
+        "id": "2041878190747217921",
+        "name": "Smartwedz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080347078606417920/Y-Mvg-Cl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 149,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "xxwxxdxxx",
+        "verified": false
+      }
+    ]
+  }
+}

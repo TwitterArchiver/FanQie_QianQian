@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2084898738544484525",
+    "created_at": "2026-08-05T08:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084917089048150143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624337198765178881",
+          "start": 0,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084917089048150143",
+    "in_reply_to_user_id": "1624337198765178881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084898738544484525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niconekkod hi老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084898738544484525",
+        "created_at": "2026-08-05T08:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084917089048150143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084917089048150143",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084898738544484525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod hi老公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624337198765178881",
+        "conversation_id": "2084898738544484525",
+        "created_at": "2026-08-05T07:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084898738544484525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084898738544484525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🌧️🪵🪵你去哪了你怎么又被封了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer❀侄子@woaiuai0721❀老公@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/5OZI3nQDt4"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 60,
+          "like_count": 5832,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/5OZI3nQDt4",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\n是 14岁傻逼低龄做题区 爱好喵斯 cs2 碎碎念\n很想被人在意，请随时打扰我，我很乐意听任何人倾诉\n🈹🅾️💊💉🩸 坐标CQ主城 欢迎互 fo\n🩷 @NomfusiSetlhodi ✝️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "NomfusiSetlhodi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx4YaI"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "niconekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083213283813949440/3WGxQTZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 127,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/Sxu7tx4YaI",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

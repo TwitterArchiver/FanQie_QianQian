@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085048801346375680"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2085048918916903279",
+    "created_at": "2026-08-05T17:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085048918916903279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZfVZxfihYD",
+          "end": 28,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2085048918916903279/video/1",
+          "media_key": "13_2085048801346375680",
+          "start": 5,
+          "url": "https://t.co/ZfVZxfihYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085048918916903279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢，补 https://t.co/ZfVZxfihYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16170,
+        "height": 1280,
+        "media_key": "13_2085048801346375680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085048801346375680/img/tV0JtvXzdy_Gc-3d.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085048801346375680/vid/avc1/320x568/ciJp-Rrsi-DVcZNF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085048801346375680/vid/avc1/480x852/TVws5P9jHn4sXAW-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085048801346375680/vid/avc1/720x1280/5UZpbzgvLvnhbXgM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085048801346375680/pl/Zx6KsfNhmB_GtOv4.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085048801346375680"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2085048918916903279",
+        "created_at": "2026-08-05T17:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085048918916903279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfVZxfihYD",
+              "end": 28,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2085048918916903279/video/1",
+              "media_key": "13_2085048801346375680",
+              "start": 5,
+              "url": "https://t.co/ZfVZxfihYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085048918916903279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢，补 https://t.co/ZfVZxfihYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/5OZI3nQDt4"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 75,
+          "like_count": 5857,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2292
+        },
+        "url": "https://t.co/5OZI3nQDt4",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

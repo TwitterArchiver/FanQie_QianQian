@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080612812272103424",
+        "3_2080612833088425985",
+        "3_2080612863648108545",
+        "3_2080612883562639360"
+      ],
+      "media_source_tweet_id": [
+        "2080612905578570121",
+        "2080612905578570121",
+        "2080612905578570121",
+        "2080612905578570121"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2084206260652843082",
+    "created_at": "2026-08-03T09:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084206260652843082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YQhEqXZiZX",
+          "end": 50,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+          "media_key": "3_2080612812272103424",
+          "start": 27,
+          "url": "https://t.co/YQhEqXZiZX"
+        },
+        {
+          "display_url": "pic.x.com/YQhEqXZiZX",
+          "end": 50,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+          "media_key": "3_2080612833088425985",
+          "start": 27,
+          "url": "https://t.co/YQhEqXZiZX"
+        },
+        {
+          "display_url": "pic.x.com/YQhEqXZiZX",
+          "end": 50,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+          "media_key": "3_2080612863648108545",
+          "start": 27,
+          "url": "https://t.co/YQhEqXZiZX"
+        },
+        {
+          "display_url": "pic.x.com/YQhEqXZiZX",
+          "end": 50,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+          "media_key": "3_2080612883562639360",
+          "start": 27,
+          "url": "https://t.co/YQhEqXZiZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084206260652843082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080612905578570121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 操蛋以前長這樣。 https://t.co/YQhEqXZiZX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080612812272103424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_SVEaa8AAkLFV.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080612833088425985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_SWR9a0AEUVq6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080612863648108545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_SYDzakAEwUWC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080612883562639360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_SZN_aMAA41Gg.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080612812272103424",
+            "3_2080612833088425985",
+            "3_2080612863648108545",
+            "3_2080612883562639360"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080612905578570121",
+        "created_at": "2026-07-24T11:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080612905578570121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 32,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612812272103424",
+              "start": 9,
+              "url": "https://t.co/YQhEqXZiZX"
+            },
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 32,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612833088425985",
+              "start": 9,
+              "url": "https://t.co/YQhEqXZiZX"
+            },
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 32,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612863648108545",
+              "start": 9,
+              "url": "https://t.co/YQhEqXZiZX"
+            },
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 32,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612883562639360",
+              "start": 9,
+              "url": "https://t.co/YQhEqXZiZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080612905578570121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15919,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋以前長這樣。 https://t.co/YQhEqXZiZX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080612812272103424",
+            "3_2080612833088425985",
+            "3_2080612863648108545",
+            "3_2080612883562639360"
+          ],
+          "media_source_tweet_id": [
+            "2080612905578570121",
+            "2080612905578570121",
+            "2080612905578570121",
+            "2080612905578570121"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084206260652843082",
+        "created_at": "2026-08-03T09:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084206260652843082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 50,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612812272103424",
+              "start": 27,
+              "url": "https://t.co/YQhEqXZiZX"
+            },
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 50,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612833088425985",
+              "start": 27,
+              "url": "https://t.co/YQhEqXZiZX"
+            },
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 50,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612863648108545",
+              "start": 27,
+              "url": "https://t.co/YQhEqXZiZX"
+            },
+            {
+              "display_url": "pic.x.com/YQhEqXZiZX",
+              "end": 50,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080612905578570121/photo/1",
+              "media_key": "3_2080612883562639360",
+              "start": 27,
+              "url": "https://t.co/YQhEqXZiZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084206260652843082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080612905578570121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 操蛋以前長這樣。 https://t.co/YQhEqXZiZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 106,
+          "like_count": 5823,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 60,
+          "like_count": 2713,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085281693959909376",
+        "3_2085281693955760128"
+      ],
+      "media_source_tweet_id": [
+        "2085281699898986822",
+        "2085281699898986822"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085284455468683551",
+    "created_at": "2026-08-06T08:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085284455468683551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024195400442531841",
+          "start": 3,
+          "username": "Xjiajiaouo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xig93lmZ3S",
+          "end": 39,
+          "expanded_url": "https://x.com/Xjiajiaouo/status/2085281699898986822/photo/1",
+          "media_key": "3_2085281693959909376",
+          "start": 16,
+          "url": "https://t.co/Xig93lmZ3S"
+        },
+        {
+          "display_url": "pic.x.com/Xig93lmZ3S",
+          "end": 39,
+          "expanded_url": "https://x.com/Xjiajiaouo/status/2085281699898986822/photo/1",
+          "media_key": "3_2085281693955760128",
+          "start": 16,
+          "url": "https://t.co/Xig93lmZ3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085284455468683551",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085281699898986822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xjiajiaouo: https://t.co/Xig93lmZ3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2085281693959909376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBopwEa8AAZ8A1.jpg",
+        "width": 640
+      },
+      {
+        "height": 394,
+        "media_key": "3_2085281693955760128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBopwDboAACRjX.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085281693959909376",
+            "3_2085281693955760128"
+          ]
+        },
+        "author_id": "2024195400442531841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085281699898986822",
+        "created_at": "2026-08-06T08:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085281699898986822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xig93lmZ3S",
+              "end": 23,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2085281699898986822/photo/1",
+              "media_key": "3_2085281693959909376",
+              "start": 0,
+              "url": "https://t.co/Xig93lmZ3S"
+            },
+            {
+              "display_url": "pic.x.com/Xig93lmZ3S",
+              "end": 23,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2085281699898986822/photo/1",
+              "media_key": "3_2085281693955760128",
+              "start": 0,
+              "url": "https://t.co/Xig93lmZ3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085281699898986822",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xig93lmZ3S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085281693959909376",
+            "3_2085281693955760128"
+          ],
+          "media_source_tweet_id": [
+            "2085281699898986822",
+            "2085281699898986822"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085284455468683551",
+        "created_at": "2026-08-06T08:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085284455468683551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024195400442531841",
+              "start": 3,
+              "username": "Xjiajiaouo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xig93lmZ3S",
+              "end": 39,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2085281699898986822/photo/1",
+              "media_key": "3_2085281693959909376",
+              "start": 16,
+              "url": "https://t.co/Xig93lmZ3S"
+            },
+            {
+              "display_url": "pic.x.com/Xig93lmZ3S",
+              "end": 39,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2085281699898986822/photo/1",
+              "media_key": "3_2085281693955760128",
+              "start": 16,
+              "url": "https://t.co/Xig93lmZ3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085284455468683551",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085281699898986822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xjiajiaouo: https://t.co/Xig93lmZ3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/5OZI3nQDt4"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 78,
+          "like_count": 5883,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/5OZI3nQDt4",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "我是你爸\n\nhttps://t.co/wYgtJMYd9m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.com/55BEWR",
+                "end": 29,
+                "expanded_url": "https://qntwx.com/55BEWR",
+                "start": 6,
+                "url": "https://t.co/wYgtJMYd9m"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2067493808552702155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 521,
+          "like_count": 19418,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 4680
+        },
+        "url": "",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083157922302087168",
+        "3_2083157930795499520"
+      ],
+      "media_source_tweet_id": [
+        "2083157938932178946",
+        "2083157938932178946"
+      ]
+    },
+    "author_id": "2047894021457211393",
+    "conversation_id": "2084206119925453288",
+    "created_at": "2026-08-03T09:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084206119925453288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/czfZ0v9qZs",
+          "end": 69,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2083157938932178946/photo/1",
+          "media_key": "3_2083157922302087168",
+          "start": 46,
+          "url": "https://t.co/czfZ0v9qZs"
+        },
+        {
+          "display_url": "pic.x.com/czfZ0v9qZs",
+          "end": 69,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2083157938932178946/photo/1",
+          "media_key": "3_2083157930795499520",
+          "start": 46,
+          "url": "https://t.co/czfZ0v9qZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084206119925453288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083157938932178946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 請你不要再拿我的照片聊騷了好嗎？我裝可愛也挺不容易的。 https://t.co/czfZ0v9qZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083157922302087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjdF-HbUAAGfzm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083157930795499520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjdGdwagAAomW0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083157922302087168",
+            "3_2083157930795499520"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083157938932178946",
+        "created_at": "2026-07-31T11:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083157938932178946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfZ0v9qZs",
+              "end": 51,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083157938932178946/photo/1",
+              "media_key": "3_2083157922302087168",
+              "start": 28,
+              "url": "https://t.co/czfZ0v9qZs"
+            },
+            {
+              "display_url": "pic.x.com/czfZ0v9qZs",
+              "end": 51,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083157938932178946/photo/1",
+              "media_key": "3_2083157930795499520",
+              "start": 28,
+              "url": "https://t.co/czfZ0v9qZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083157938932178946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20962,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "請你不要再拿我的照片聊騷了好嗎？我裝可愛也挺不容易的。 https://t.co/czfZ0v9qZs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083157922302087168",
+            "3_2083157930795499520"
+          ],
+          "media_source_tweet_id": [
+            "2083157938932178946",
+            "2083157938932178946"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2084206119925453288",
+        "created_at": "2026-08-03T09:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084206119925453288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfZ0v9qZs",
+              "end": 69,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083157938932178946/photo/1",
+              "media_key": "3_2083157922302087168",
+              "start": 46,
+              "url": "https://t.co/czfZ0v9qZs"
+            },
+            {
+              "display_url": "pic.x.com/czfZ0v9qZs",
+              "end": 69,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083157938932178946/photo/1",
+              "media_key": "3_2083157930795499520",
+              "start": 46,
+              "url": "https://t.co/czfZ0v9qZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084206119925453288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083157938932178946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 請你不要再拿我的照片聊騷了好嗎？我裝可愛也挺不容易的。 https://t.co/czfZ0v9qZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 106,
+          "like_count": 5823,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 60,
+          "like_count": 2713,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

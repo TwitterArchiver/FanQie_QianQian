@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2085286428968452547",
+    "created_at": "2026-08-06T08:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085286428968452547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xjiajiaouo/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Xjiajiaouo/status/2084605886715273503",
+          "start": 11,
+          "url": "https://t.co/HB5RgW49U7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085286428968452547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084605886715273503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发朋友圈的现实敢沙人 https://t.co/HB5RgW49U7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2084605880809684993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4CAP5aAAEhEoz.jpg",
+        "width": 1317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2085286428968452547",
+        "created_at": "2026-08-06T08:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085286428968452547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xjiajiaouo/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Xjiajiaouo/status/2084605886715273503",
+              "start": 11,
+              "url": "https://t.co/HB5RgW49U7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085286428968452547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084605886715273503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发朋友圈的现实敢沙人 https://t.co/HB5RgW49U7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084605880809684993"
+          ]
+        },
+        "author_id": "2024195400442531841",
+        "conversation_id": "2084605886715273503",
+        "created_at": "2026-08-04T11:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084605886715273503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9IS2Y6E39",
+              "end": 23,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2084605886715273503/photo/1",
+              "media_key": "3_2084605880809684993",
+              "start": 0,
+              "url": "https://t.co/G9IS2Y6E39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084605886715273503",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G9IS2Y6E39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/5OZI3nQDt4"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 78,
+          "like_count": 5885,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/5OZI3nQDt4",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "我是你爸\n\nhttps://t.co/wYgtJMYd9m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.com/55BEWR",
+                "end": 29,
+                "expanded_url": "https://qntwx.com/55BEWR",
+                "start": 6,
+                "url": "https://t.co/wYgtJMYd9m"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2067493808552702155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 521,
+          "like_count": 19419,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 4680
+        },
+        "url": "",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

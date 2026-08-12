@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047894021457211393",
+    "conversation_id": "2083158105450312019",
+    "created_at": "2026-07-31T11:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083158105450312019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20758…",
+          "end": 82,
+          "expanded_url": "https://x.com/i/status/2075813185274458470",
+          "start": 59,
+          "url": "https://t.co/SGKMKfqz19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083158105450312019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083137783611400343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 為什麼要盜我的自拍跟別人聊騷。還打上這些噁心的標籤獲取流量。你想幹什麼。\n原帖：\nhttps://t.co/SGKMKfqz19"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2083158105450312019",
+        "created_at": "2026-07-31T11:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083158105450312019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20758…",
+              "end": 82,
+              "expanded_url": "https://x.com/i/status/2075813185274458470",
+              "start": 59,
+              "url": "https://t.co/SGKMKfqz19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083158105450312019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083137783611400343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 為什麼要盜我的自拍跟別人聊騷。還打上這些噁心的標籤獲取流量。你想幹什麼。\n原帖：\nhttps://t.co/SGKMKfqz19"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083137783611400343",
+        "created_at": "2026-07-31T10:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083137783611400343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20758…",
+              "end": 64,
+              "expanded_url": "https://x.com/i/status/2075813185274458470",
+              "start": 41,
+              "url": "https://t.co/SGKMKfqz19"
+            },
+            {
+              "display_url": "x.com/Emi38688707/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Emi38688707/status/2082875027138212277",
+              "start": 65,
+              "url": "https://t.co/o1kr6ysMld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083137783611400343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082875027138212277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼要盜我的自拍跟別人聊騷。還打上這些噁心的標籤獲取流量。你想幹什麼。\n原帖：\nhttps://t.co/SGKMKfqz19 https://t.co/o1kr6ysMld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 108,
+          "like_count": 5791,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 55,
+          "like_count": 2386,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}
